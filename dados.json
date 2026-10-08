@@ -1,6 +1,6 @@
 {
   "footer": {
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDAksi0ShvtF0kZnYPvLiX8pEUxLHMSXY_im7yrlH0zQ&s=10",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQg1_DzURztDOdn457WnodZkqWrrIEngmR37dglidng&s=10",
     "marquee": [
       "HAMBURGUERES ARTESANAIS FEITOS NA CHAPA COM BLEND EXCLUSIVO",
       "BATATAS FRITAS CRISP CROCANTES COM CHEDDAR CREMOSO E BACON",
@@ -21,6 +21,14 @@
     {
       "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QaO6RLSGQOK0NwyxpsNb3ZTaKT95j2m3uF8gi8bYnA2vvKOkdZdYjTXP_S_0fGi-fONJIMqV9f1oT0mcTFXhPplo1YWE2sw7ehF_o1r0GLKYwlXL5i-oPnsj4mWY7pPIAQBEdmlSz8IUId=s457-k-no",
       "alt": "Burger 3"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm3KFSvNGMUJZy7t4JAdv-M-tXH_BJ7CyUZIJzFIa4ag&s=10",
+      "alt": "Burger 4"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfMNgxDa531XzHjPKlFOS7tFxB0JdeSK-7XYw1o5CfA&s=10",
+      "alt": "Burger 5"
     }
   ],
   "categories": {
@@ -35,12 +43,12 @@
       { "name": "Gal Costa", "videoId": "6yW-evSMPeI", "thumb": "https://yt3.googleusercontent.com/75zzk2R-pEAHZbSEv62YfJlXHNZOPgUE1cD-c86DJAR9m1IjVZs6upoWWiQfTRfEmKAbSlME3g=s120-c-k-c0x00ffffff-no-rj" }
     ],
     "esporte": [
-      { "name": "Xsports: Rodada do Brasileirão", "subtitle": "A VOLTA DO BRASILEIRÃO! TUDO QUE ROLA NA RODADA!", "time": "20:15", "date": "2026-10-05", "videoId": "1MIaNV25L7k", "thumb": "https://yt3.googleusercontent.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s900-c-k-c0x00ffffff-no-rj" },
+      { "name": "Xsports: Rodada do Brasileirão", "subtitle": "A VOLTA DO BRASILEIRÃO! TUDO QUE ROLA NA RODADA!", "time": "20:15", "date": "2026-10-08", "videoId": "1MIaNV25L7k", "thumb": "https://yt3.googleusercontent.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s900-c-k-c0x00ffffff-no-rj" },
       { "name": "Record News: Elas com a Bola", "subtitle": "Debate e resenha sobre o futebol feminino", "time": "19:40", "date": "2026-10-05", "videoId": "DaD35m2A6uk", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
       { "name": "Record News: Esporte Record News", "subtitle": "Panorama esportivo do dia", "time": "18:40", "date": "2026-10-05", "videoId": "xlJWOMBUfQI", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" }
     ],
     "noticia": [
-      { "name": "CNN Brasil: WW", "subtitle": "Análise política e econômica com William Waack", "time": "22:00", "date": "2026-10-05", "videoId": "B2wY6ldlgWM", "thumb": "https://yt3.googleusercontent.com/TUNo33rJfSv06L2UyQWsOPUMJglHptsHR2mFZOshcXL45xRJ1YgpRZWpb76IChbSBwyG1TBUvA=s900-c-k-c0x00ffffff-no-rj" },
+      { "name": "CNN Brasil: WW", "subtitle": "Análise política e econômica com William Waack", "time": "22:00", "date": "2026-10-08", "videoId": "B2wY6ldlgWM", "thumb": "https://yt3.googleusercontent.com/TUNo33rJfSv06L2UyQWsOPUMJglHptsHR2mFZOshcXL45xRJ1YgpRZWpb76IChbSBwyG1TBUvA=s900-c-k-c0x00ffffff-no-rj" },
       { "name": "CNN Brasil: Prime Time", "subtitle": "As principais notícias do Brasil e do mundo", "time": "20:00", "date": "2026-10-05", "videoId": "7mwVMIcJmdA", "thumb": "https://yt3.googleusercontent.com/TUNo33rJfSv06L2UyQWsOPUMJglHptsHR2mFZOshcXL45xRJ1YgpRZWpb76IChbSBwyG1TBUvA=s900-c-k-c0x00ffffff-no-rj" },
       { "name": "Record News: News das 10", "subtitle": "Resumo completo dos fatos da noite", "time": "22:00", "date": "2026-10-05", "videoId": "guGudkcGx6U", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
       { "name": "Record News: Jornal da Record News", "subtitle": "Informação e jornalismo de credibilidade", "time": "20:50", "date": "2026-10-05", "videoId": "7jnWL90JGCU", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
