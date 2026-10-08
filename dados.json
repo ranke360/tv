@@ -43,17 +43,368 @@
       { "name": "Pablo", "videoId": "ZxVH2tO3TQk", "thumb": "https://yt3.googleusercontent.com/06gTHDe4JMsp9lohcRCR0eHBt8pgj54nsvekWLPNAQ_m7AHqu3OWnVcjOw3urQM4ugbLEv-BAA=s160-c-k-c0x00ffffff-no-rj" }
     ],
     "esporte": [
-      { "name": "Xsports: Rodada do Brasileirão", "subtitle": "A VOLTA DO BRASILEIRÃO! TUDO QUE ROLA NA RODADA!", "time": "20:15", "date": "2026-10-08", "videoId": "1MIaNV25L7k", "thumb": "https://yt3.googleusercontent.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s900-c-k-c0x00ffffff-no-rj" },
-      { "name": "Record News: Elas com a Bola", "subtitle": "Debate e resenha sobre o futebol feminino", "time": "19:40", "date": "2026-10-05", "videoId": "DaD35m2A6uk", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
-      { "name": "Record News: Esporte Record News", "subtitle": "Panorama esportivo do dia", "time": "18:40", "date": "2026-10-05", "videoId": "xlJWOMBUfQI", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" }
-    ],
-    "noticia": [
-      { "name": "CNN Brasil: WW", "subtitle": "Análise política e econômica com William Waack", "time": "22:00", "date": "2026-10-08", "videoId": "B2wY6ldlgWM", "thumb": "https://yt3.googleusercontent.com/TUNo33rJfSv06L2UyQWsOPUMJglHptsHR2mFZOshcXL45xRJ1YgpRZWpb76IChbSBwyG1TBUvA=s900-c-k-c0x00ffffff-no-rj" },
-      { "name": "CNN Brasil: Prime Time", "subtitle": "As principais notícias do Brasil e do mundo", "time": "20:00", "date": "2026-10-05", "videoId": "7mwVMIcJmdA", "thumb": "https://yt3.googleusercontent.com/TUNo33rJfSv06L2UyQWsOPUMJglHptsHR2mFZOshcXL45xRJ1YgpRZWpb76IChbSBwyG1TBUvA=s900-c-k-c0x00ffffff-no-rj" },
-      { "name": "Record News: News das 10", "subtitle": "Resumo completo dos fatos da noite", "time": "22:00", "date": "2026-10-05", "videoId": "guGudkcGx6U", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
-      { "name": "Record News: Jornal da Record News", "subtitle": "Informação e jornalismo de credibilidade", "time": "20:50", "date": "2026-10-05", "videoId": "7jnWL90JGCU", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
-      { "name": "Record News: News 19 Horas", "subtitle": "A cobertura jornalística do fim de tarde", "time": "18:50", "date": "2026-10-05", "videoId": "4fEYJH-hFK8", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
-      { "name": "SBT News: News Noite", "subtitle": "Plantão de notícias em tempo real", "time": "20:30", "date": "2026-10-05", "videoId": "9eiZbCvYSe8", "thumb": "https://yt3.googleusercontent.com/3_uPF3ufjORBgR9Ii_4XoSw92CeIWI2FabiuH-kXT321ykNrWC0bmpdsmm7bdzlynDiX3Qx2ZQ=s900-c-k-c0x00ffffff-no-rj" }
-    ]
+    {
+      "name": "ge tv: Rodada do Brasileirão / Futebol e Esportes",
+      "subtitle": "ROMA X GENOA: AO VIVO E COM IMAGENS | RODADA 7 | SERIE A",
+      "time": "15:15",
+      "date": "2026-10-17",
+      "videoId": "RHIpNIlEG64",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Internacional e Nacional",
+      "subtitle": "HAMBURGO X STUTTGART: AO VIVO E COM IMAGENS | RODADA 6 | BUNDESLIGA",
+      "time": "10:00",
+      "date": "2026-10-17",
+      "videoId": "g5e-GVDm_5w",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Internacional",
+      "subtitle": "VENEZIA X NAPOLI: AO VIVO E COM IMAGENS | RODADA 7 | SERIE A",
+      "time": "09:30",
+      "date": "2026-10-17",
+      "videoId": "DQqzH1pfiI0",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Internacional",
+      "subtitle": "MANTOVA X PALERMO: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 7 | SÉRIE B ITALIANA",
+      "time": "00:00",
+      "date": "2026-10-16",
+      "videoId": "z7_X0c_ldLI",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Internacional",
+      "subtitle": "DEPORTIVO A CORUÑA X LEVANTE: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 9",
+      "time": "15:45",
+      "date": "2026-10-16",
+      "videoId": "gkS8VddQ5yo",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Internacional",
+      "subtitle": "TORINO X UDINESE: AO VIVO E COM IMAGENS | RODADA 6 | SERIE A",
+      "time": "15:45",
+      "date": "2026-10-12",
+      "videoId": "rtRNCECFHDo",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Brasileirão Série B",
+      "subtitle": "OPERÁRIO X GOIÁS: AO VIVO E COM IMAGENS | RODADA 33 | SÉRIE B",
+      "time": "16:15",
+      "date": "2026-10-11",
+      "videoId": "sfxoDx2bwgc",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Brasileirão Série B",
+      "subtitle": "ATLÉTICO-GO X SPORT RECIFE: AO VIVO E COM IMAGENS | RODADA 33 | SÉRIE B",
+      "time": "15:00",
+      "date": "2026-10-11",
+      "videoId": "SbZ75TUPTMw",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Internacional",
+      "subtitle": "OLYMPIACOS x PANATHINAIKOS : AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 6 | CAMPEONATO GREGO",
+      "time": "14:45",
+      "date": "2026-10-11",
+      "videoId": "ecbG3zvYCkw",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Internacional",
+      "subtitle": "REAL SOCIEDAD X A CORUÑA: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 8",
+      "time": "11:00",
+      "date": "2026-10-11",
+      "videoId": "5Hqiy4SA_4g",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Internacional",
+      "subtitle": "SASSUOLO X MILAN: AO VIVO E COM IMAGENS | RODADA 6 | SERIE A",
+      "time": "00:45",
+      "date": "2026-10-10",
+      "videoId": "r5OPWoyRK-E",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Mexicano",
+      "subtitle": "AMÉRICA-MEX X MONTERREY: AO VIVO, COM IMAGENS E EXCLUSIVO| RODADA 11 - APERTURA |CAMPEONATO MEXICANO",
+      "time": "23:45",
+      "date": "2026-10-10",
+      "videoId": "YNXpiJPNwvc",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Mexicano",
+      "subtitle": "ATLAS X CHIVAS: AO VIVO, COM IMAGENS E EXCLUSIVO| RODADA 11 - APERTURA |CAMPEONATO MEXICANO",
+      "time": "21:45",
+      "date": "2026-10-10",
+      "videoId": "m2ohel4Vy8c",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Brasileirão Série C",
+      "subtitle": "BRUSQUE X PAYSANDU: AO VIVO, COM IMAGENS E EXCLUSIVO | 2ª FASE - RODADA 6 |BRASILEIRÃO SÉRIE C",
+      "time": "16:45",
+      "date": "2026-10-10",
+      "videoId": "rqFzNKI8GeA",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Brasileirão Série C",
+      "subtitle": "BOTAFOGO-PB X SANTA CRUZ: AO VIVO, COM IMAGENS E EXCLUSIVO|2ª FASE - RODADA 6|BRASILEIRÃO SÉRIE C",
+      "time": "16:45",
+      "date": "2026-10-10",
+      "videoId": "-ejBIOl3WN4",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Alemão",
+      "subtitle": "RB LEIPZIG X EINTRACHT FRANKFURT AO VIVO E COM IMAGENS | RODADA 5 | BUNDESLIGA",
+      "time": "12:30",
+      "date": "2026-10-10",
+      "videoId": "e0PXhEKIM8M",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Espanhol",
+      "subtitle": "ALAVÉS X ATLÉTICO DE MADRID: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 8",
+      "time": "10:45",
+      "date": "2026-10-10",
+      "videoId": "nU1TNom1rqE",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Alemão",
+      "subtitle": "AUGSBURG X BAYERN DE MUNIQUE: AO VIVO E COM IMAGENS | RODADA 5| BUNDESLIGA",
+      "time": "10:30",
+      "date": "2026-10-10",
+      "videoId": "NZIlkGiDXss",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Futebol Italiano",
+      "subtitle": "AVELLINO X SAMPDORIA: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 6 | SÉRIE B ITALIANA",
+      "time": "15:15",
+      "date": "2026-10-09",
+      "videoId": "khG9P4KYbhI",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Brasileirão Série B",
+      "subtitle": "CEARÁ X CRICIÚMA: AO VIVO E COM IMAGENS | RODADA 32 | SÉRIE B",
+      "time": "19:15",
+      "date": "2026-10-08",
+      "videoId": "zN53ScC-xJc",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: NFL / Futebol Americano",
+      "subtitle": "AO VIVO: TAMPA BAY BUCCANEERS X DALLAS COWBOYS | NFL 2026/27 | ge tv",
+      "time": "20:15",
+      "date": "2026-10-08",
+      "videoId": "lc4QgCLIyZQ",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Brasileirão 2026",
+      "subtitle": "PALMEIRAS X BAHIA | AO VIVO E COM IMAGENS | BRASILEIRÃO 2026 | ge tv",
+      "time": "20:00",
+      "date": "2026-10-08",
+      "videoId": "YrzbyMtsouA",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "ge tv: Premiere / Pré-jogo Brasileirão",
+      "subtitle": "AO VIVO: SANTOS X FLAMENGO | PRÉ-JOGO | BRASILEIRÃO 2026 | Premiere",
+      "time": "18:30",
+      "date": "2026-10-08",
+      "videoId": "I-M0PCZPpE4",
+      "thumb": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Revista Oeste: Esporte Sem Firula",
+      "subtitle": "ESPORTE SEM FIRULA, COM MILTON NEVES",
+      "time": "12:00",
+      "date": "2026-10-08",
+      "videoId": "VqzxSt_9YVU",
+      "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Jogo Aberto: Jogo Aberto - 09/10/2026",
+      "subtitle": "[AO VIVO ] JOGO ABERTO - 09/10/2026",
+      "time": "11:00",
+      "date": "2026-10-09",
+      "videoId": "W61T8oHCG5U",
+      "thumb": "https://yt3.googleusercontent.com/FPFgRN8XLYrxjpAhZuwlFoZyefgMdl2wmWdc9TnousxnsT9O5d-FuvLj1qYfUVQz0Rpvqa6g=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Jogo Aberto: Jogo Aberto - 08/10/2026",
+      "subtitle": "[AO VIVO ] JOGO ABERTO - 08/10/2026",
+      "time": "11:00",
+      "date": "2026-10-08",
+      "videoId": "C64p5AQJjR4",
+      "thumb": "https://yt3.googleusercontent.com/FPFgRN8XLYrxjpAhZuwlFoZyefgMdl2wmWdc9TnousxnsT9O5d-FuvLj1qYfUVQz0Rpvqa6g=s900-c-k-c0x00ffffff-no-rj"
+    }
+  ],
+  "noticia": [
+    {
+      "name": "O POVO: O POVO News / Eleições e Política",
+      "subtitle": "🔴AO VIVO: Flávio recebe o apoio do Republicanos; Lula sobe o tom contra bandidos; nova Datafolha",
+      "time": "15:55",
+      "date": "2026-10-08",
+      "videoId": "nFQ1TUhki6A",
+      "thumb": "https://yt3.googleusercontent.com/NSfnfinfoqlldLwnbcuT_tMaQpHCpRwHtZBS-cbojGexXFZGV7723JALWiWSyBb-7tHCdi6hIg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "O POVO: O POVO News / Geral",
+      "subtitle": "🔴AO VIVO  | OPR | 08/10/26",
+      "time": "09:00",
+      "date": "2026-10-08",
+      "videoId": "90qL39c4N0M",
+      "thumb": "https://yt3.googleusercontent.com/NSfnfinfoqlldLwnbcuT_tMaQpHCpRwHtZBS-cbojGexXFZGV7723JALWiWSyBb-7tHCdi6hIg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "UOL: UOL News 2ª Edição",
+      "subtitle": "UOL News 2ª Edição com Natália Mota, Thaís Bilenky e Leonardo Sakamoto | 9 de outubro de 2026",
+      "time": "16:00",
+      "date": "2026-10-09",
+      "videoId": "tTs6o6BBc2c",
+      "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "UOL: Pulso Político",
+      "subtitle": "Pulso Político com Daniela Lima ao vivo | 9 de outubro de 2026",
+      "time": "12:30",
+      "date": "2026-10-09",
+      "videoId": "X19QMvaMwoo",
+      "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "UOL: UOL News 1ª Edição",
+      "subtitle": "UOL News 1ª Edição com Fabíola Cidral e Josias de Souza | 9 de outubro de 2026",
+      "time": "10:00",
+      "date": "2026-10-09",
+      "videoId": "lsbnLJasIec",
+      "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "UOL: Datafolha ao vivo",
+      "subtitle": "Datafolha ao vivo: José Roberto de Toledo e Thaís Bilenky analisam os resultados da pesquisa",
+      "time": "19:15",
+      "date": "2026-10-08",
+      "videoId": "0EmDRamiOkM",
+      "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "UOL: UOL News 2ª Edição",
+      "subtitle": "UOL News 2ª Edição com Natália Mota, Alexandre Borges e Ricardo Kotscho | 8 de outubro de 2026",
+      "time": "16:00",
+      "date": "2026-10-08",
+      "videoId": "d8GVEHDOQPo",
+      "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "UOL: Debate PEC 6x1",
+      "subtitle": "Fim da escala 6x1: Senado discute PEC que reduz a jornada de trabalho; assista ao vivo",
+      "time": "14:00",
+      "date": "2026-10-08",
+      "videoId": "gYhZduIsxzY",
+      "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "UOL: Pulso Político",
+      "subtitle": "Pulso Político com Daniela Lima ao vivo | 8 de outubro de 2026",
+      "time": "12:30",
+      "date": "2026-10-08",
+      "videoId": "DnFhDhup8cE",
+      "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "UOL: Cobertura TSE",
+      "subtitle": "TSE julga anulação de votos de Garotinho e candidatura do Deltan Dallagnol; assista ao vivo",
+      "time": "10:00",
+      "date": "2026-10-08",
+      "videoId": "n0rX7m-xskA",
+      "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "UOL: UOL News 1ª Edição",
+      "subtitle": "UOL News 1ª Edição com Fabíola Cidral, Josias de Souza e Leonardo Sakamoto | 8 de outubro de 2026",
+      "time": "10:00",
+      "date": "2026-10-08",
+      "videoId": "D3fHf_MPPLQ",
+      "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Revista Oeste: Outra Coisa",
+      "subtitle": "OUTRA COISA, COM GUILHERME FIUZA  | 10/10/2026",
+      "time": "20:00",
+      "date": "2026-10-10",
+      "videoId": "wfZ6G2Ywwzc",
+      "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Revista Oeste: Arena Oeste",
+      "subtitle": "ARENA OESTE #70 | TARCÍSIO DE FREITAS, GOVERNADOR DE SÃO PAULO",
+      "time": "20:30",
+      "date": "2026-10-08",
+      "videoId": "6CPQmI879wg",
+      "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Revista Oeste: Oeste Sem Filtro",
+      "subtitle": "OESTE SEM FILTRO | 08/10/2026",
+      "time": "17:45",
+      "date": "2026-10-08",
+      "videoId": "MnG8dVzAU5c",
+      "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Revista Oeste: Jornal da Oeste",
+      "subtitle": "JORNAL DA OESTE SEGUNDA EDIÇÃO, COM GEISIANE FREITAS | 08/10/2026",
+      "time": "16:00",
+      "date": "2026-10-08",
+      "videoId": "6wGux0IU838",
+      "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Revista Oeste: Faroeste à Brasileira",
+      "subtitle": "FAROESTE À BRASILEIRA, COM GUSTAVO SEGRÉ | 08/10/2026",
+      "time": "14:00",
+      "date": "2026-10-08",
+      "videoId": "hiquUfcqO0Y",
+      "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Revista Oeste: Oeste com Elas",
+      "subtitle": "OESTE COM ELAS | 08/10/2026",
+      "time": "10:00",
+      "date": "2026-10-08",
+      "videoId": "gBfuPIVCen8",
+      "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Os Pingos Nos Is: Os Pingos Nos Is - 08/10/26",
+      "subtitle": "OS PINGOS NOS IS - 08/10/26",
+      "time": "18:00",
+      "date": "2026-10-08",
+      "videoId": "J4obAG-rQio",
+      "thumb": "https://i.ytimg.com/vi/J4obAG-rQio/maxresdefault.jpg"
+    },
+    {
+      "name": "Pânico: Bella Falconi ao Vivo",
+      "subtitle": "BELLA FALCONI AO VIVO | PÂNICO - 08/10/26",
+      "time": "12:00",
+      "date": "2026-10-08",
+      "videoId": "EauiFSwLelI",
+      "thumb": "https://i.ytimg.com/vi/EauiFSwLelI/maxresdefault.jpg"
+    }
+  ]
   }
 }
