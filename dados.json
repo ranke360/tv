@@ -1,1 +1,42 @@
 
+{
+  "slides": [
+    {
+      "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RRIqYP9XIMA6y89RUzk2YN7Gi_lIycOhIUR4HCxh1cTXO6Dwv7FOJzOibzIDOdwcLKzop9-NM8B1rdDwkPS7w-oC6Xhf1erolXF1yvlkQEQsPNUd-lCRmPcJrxbDPMOZHO0zV4onBoINoH=s762-k-no",
+      "alt": "Burger 1"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TmAVepugpMZqx4-kEWqWk0ES2e7DeRl-LlvmeHNSCtFATCY7r8z4Iu44stjiZZuxHXdvnJJY6ho5Yqp1mZUj5gKPwzUgkOmqY66_3cZP9UL_EbUoDdD9pYjlRxKvCmUABl6Ay6wHMj3Y68=s762-k-no",
+      "alt": "Burger 2"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QaO6RLSGQOK0NwyxpsNb3ZTaKT95j2m3uF8gi8bYnA2vvKOkdZdYjTXP_S_0fGi-fONJIMqV9f1oT0mcTFXhPplo1YWE2sw7ehF_o1r0GLKYwlXL5i-oPnsj4mWY7pPIAQBEdmlSz8IUId=s457-k-no",
+      "alt": "Burger 3"
+    }
+  ],
+  "categories": {
+    "musica": [
+      { "name": "Xand Avião", "videoId": "OjFB6uv8J5U", "thumb": "https://yt3.googleusercontent.com/XkOQOPHT22h2URowYz0GdSZLlZhxnw8u3kKwDLzfm5vyWgr9pOjeTqG-ftKCEVV8zAqz8Gl38Q=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Jorge & Mateus", "videoId": "qfgIrpcyheg", "thumb": "https://yt3.googleusercontent.com/01kf-2hiZfo631t2kdLZrE4G7oyujyjgH0ON19qKxEOLyuOI32gE1G-aBYE4xivsolJqcU13Ew=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Henrique & Juliano", "videoId": "06G-Nvozuj4", "thumb": "https://yt3.googleusercontent.com/nKH8O4Arv6kIKDNKwdV3MDVkJmwAAymwWjBc6gre6TmAAgrFR0uiSs7tvI1x7QmeIuhI8YCRECM=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Marília Mendonça", "videoId": "CebT71NMtxI", "thumb": "https://yt3.googleusercontent.com/aDkvN_VbnUmHXLfDjWAImkusedp1ko2v14DmdGYdkHQBLysYv26FzzxKA25n6YWWusNhpUKtBg=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Gusttavo Lima", videoId: "_idnfGZdjmo", thumb: "https://yt3.googleusercontent.com/HmZtOZ4RQolEYj-oQti1vU8S3_BdTRrJvaTkP0TmFIXf4WO0pQBLBjKpoGf-j2rJIFRomTIL=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Grupo Menos é Mais", videoId: "iXSbnL56SWs", thumb: "https://yt3.googleusercontent.com/JUR8rAvQmpYxUiWRQwFcaGeoExKTQpOHMEyTiMGqH4XQS7GPsqKd940j2EHKS4Vz-pbg9hhTSdM=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Fernandinho", videoId: "e2STBJ7le8I", thumb: "https://yt3.googleusercontent.com/dyvU59Pr4sSdQ9FIaKUSqCY7pB5u-EIygHAyRdl7QJ9twmlM02cUzaforkX2dYe-tgRm2XGeiQ=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Gal Costa", videoId: "6yW-evSMPeI", thumb: "https://yt3.googleusercontent.com/75zzk2R-pEAHZbSEv62YfJlXHNZOPgUE1cD-c86DJAR9m1IjVZs6upoWWiQfTRfEmKAbSlME3g=s120-c-k-c0x00ffffff-no-rj" }
+    ],
+    "esporte": [
+      { "name": "Xsports: Rodada do Brasileirão", "subtitle": "A VOLTA DO BRASILEIRÃO! TUDO QUE ROLA NA RODADA!", "time": "20:15", "date": "2026-10-05", "videoId": "1MIaNV25L7k", "thumb": "https://yt3.googleusercontent.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s900-c-k-c0x00ffffff-no-rj" },
+      { "name": "Record News: Elas com a Bola", "subtitle": "Debate e resenha sobre o futebol feminino", "time": "19:40", "date": "2026-10-05", "videoId": "DaD35m2A6uk", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
+      { "name": "Record News: Esporte Record News", "subtitle": "Panorama esportivo do dia", "time": "18:40", "date": "2026-10-05", "videoId": "xlJWOMBUfQI", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" }
+    ],
+    "noticia": [
+      { "name": "CNN Brasil: WW", "subtitle": "Análise política e econômica com William Waack", "time": "22:00", "date": "2026-10-05", "videoId": "B2wY6ldlgWM", "thumb": "https://yt3.googleusercontent.com/TUNo33rJfSv06L2UyQWsOPUMJglHptsHR2mFZOshcXL45xRJ1YgpRZWpb76IChbSBwyG1TBUvA=s900-c-k-c0x00ffffff-no-rj" },
+      { "name": "CNN Brasil: Prime Time", "subtitle": "As principais notícias do Brasil e do mundo", "time": "20:00", "date": "2026-10-05", "videoId": "7mwVMIcJmdA", "thumb": "https://yt3.googleusercontent.com/TUNo33rJfSv06L2UyQWsOPUMJglHptsHR2mFZOshcXL45xRJ1YgpRZWpb76IChbSBwyG1TBUvA=s900-c-k-c0x00ffffff-no-rj" },
+      { "name": "Record News: News das 10", "subtitle": "Resumo completo dos fatos da noite", "time": "22:00", "date": "2026-10-05", "videoId": "guGudkcGx6U", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
+      { "name": "Record News: Jornal da Record News", "subtitle": "Informação e jornalismo de credibilidade", "time": "20:50", "date": "2026-10-05", "videoId": "7jnWL90JGCU", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
+      { "name": "Record News: News 19 Horas", "subtitle": "A cobertura jornalística do fim de tarde", "time": "18:50", "date": "2026-10-05", "videoId": "4fEYJH-hFK8", "thumb": "https://yt3.googleusercontent.com/HCLS0suaZ1ZqXvIzGsxElF0RKkonHsd7LqMsgJOoJhtHcrj2sS61NYSciv7okzmIQ5Fj9gRyZA=s900-c-k-c0x00ffffff-no-rj" },
+      { "name": "SBT News: News Noite", "subtitle": "Plantão de notícias em tempo real", "time": "20:30", "date": "2026-10-05", "videoId": "9eiZbCvYSe8", "thumb": "https://yt3.googleusercontent.com/3_uPF3ufjORBgR9Ii_4XoSw92CeIWI2FabiuH-kXT321ykNrWC0bmpdsmm7bdzlynDiX3Qx2ZQ=s900-c-k-c0x00ffffff-no-rj" }
+    ]
+  }
+}
