@@ -1,4 +1,3 @@
-
 {
   "slides": [
     {
@@ -20,10 +19,10 @@
       { "name": "Jorge & Mateus", "videoId": "qfgIrpcyheg", "thumb": "https://yt3.googleusercontent.com/01kf-2hiZfo631t2kdLZrE4G7oyujyjgH0ON19qKxEOLyuOI32gE1G-aBYE4xivsolJqcU13Ew=s120-c-k-c0x00ffffff-no-rj" },
       { "name": "Henrique & Juliano", "videoId": "06G-Nvozuj4", "thumb": "https://yt3.googleusercontent.com/nKH8O4Arv6kIKDNKwdV3MDVkJmwAAymwWjBc6gre6TmAAgrFR0uiSs7tvI1x7QmeIuhI8YCRECM=s120-c-k-c0x00ffffff-no-rj" },
       { "name": "Marília Mendonça", "videoId": "CebT71NMtxI", "thumb": "https://yt3.googleusercontent.com/aDkvN_VbnUmHXLfDjWAImkusedp1ko2v14DmdGYdkHQBLysYv26FzzxKA25n6YWWusNhpUKtBg=s120-c-k-c0x00ffffff-no-rj" },
-      { "name": "Gusttavo Lima", videoId: "_idnfGZdjmo", thumb: "https://yt3.googleusercontent.com/HmZtOZ4RQolEYj-oQti1vU8S3_BdTRrJvaTkP0TmFIXf4WO0pQBLBjKpoGf-j2rJIFRomTIL=s120-c-k-c0x00ffffff-no-rj" },
-      { "name": "Grupo Menos é Mais", videoId: "iXSbnL56SWs", thumb: "https://yt3.googleusercontent.com/JUR8rAvQmpYxUiWRQwFcaGeoExKTQpOHMEyTiMGqH4XQS7GPsqKd940j2EHKS4Vz-pbg9hhTSdM=s120-c-k-c0x00ffffff-no-rj" },
-      { "name": "Fernandinho", videoId: "e2STBJ7le8I", thumb: "https://yt3.googleusercontent.com/dyvU59Pr4sSdQ9FIaKUSqCY7pB5u-EIygHAyRdl7QJ9twmlM02cUzaforkX2dYe-tgRm2XGeiQ=s120-c-k-c0x00ffffff-no-rj" },
-      { "name": "Gal Costa", videoId: "6yW-evSMPeI", thumb: "https://yt3.googleusercontent.com/75zzk2R-pEAHZbSEv62YfJlXHNZOPgUE1cD-c86DJAR9m1IjVZs6upoWWiQfTRfEmKAbSlME3g=s120-c-k-c0x00ffffff-no-rj" }
+      { "name": "Gusttavo Lima", "videoId": "_idnfGZdjmo", "thumb": "https://yt3.googleusercontent.com/HmZtOZ4RQolEYj-oQti1vU8S3_BdTRrJvaTkP0TmFIXf4WO0pQBLBjKpoGf-j2rJIFRomTIL=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Grupo Menos é Mais", "videoId": "iXSbnL56SWs", "thumb": "https://yt3.googleusercontent.com/JUR8rAvQmpYxUiWRQwFcaGeoExKTQpOHMEyTiMGqH4XQS7GPsqKd940j2EHKS4Vz-pbg9hhTSdM=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Fernandinho", "videoId": "e2STBJ7le8I", "thumb": "https://yt3.googleusercontent.com/dyvU59Pr4sSdQ9FIaKUSqCY7pB5u-EIygHAyRdl7QJ9twmlM02cUzaforkX2dYe-tgRm2XGeiQ=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Gal Costa", "videoId": "6yW-evSMPeI", "thumb": "https://yt3.googleusercontent.com/75zzk2R-pEAHZbSEv62YfJlXHNZOPgUE1cD-c86DJAR9m1IjVZs6upoWWiQfTRfEmKAbSlME3g=s120-c-k-c0x00ffffff-no-rj" }
     ],
     "esporte": [
       { "name": "Xsports: Rodada do Brasileirão", "subtitle": "A VOLTA DO BRASILEIRÃO! TUDO QUE ROLA NA RODADA!", "time": "20:15", "date": "2026-10-05", "videoId": "1MIaNV25L7k", "thumb": "https://yt3.googleusercontent.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s900-c-k-c0x00ffffff-no-rj" },
