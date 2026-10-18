@@ -1,0 +1,24 @@
+{
+    "forro": [
+        {
+            "videoId": "a74Dj345Gjw",
+            "name": "Forró ao Vivo",
+            "subtitle": "Os melhores sucessos",
+            "thumb": "https://img.youtube.com/vi/a74Dj345Gjw/hqdefault.jpg"
+        }
+    ],
+    "pagode": [
+        {
+            "videoId": "dQw4w9WgXcQ",
+            "name": "Pagode Retrô",
+            "subtitle": "Samba e alegria",
+            "thumb": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+        }
+    ],
+    "mpb": [],
+    "reggae": [],
+    "sertanejo": [],
+    "gospel": [],
+    "rock": [],
+    "brega": []
+}

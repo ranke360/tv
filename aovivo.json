@@ -1,0 +1,20 @@
+{
+    "esporte": [
+        {
+            "videoId": "ScMzIvxBSi4",
+            "name": "Futebol Ao Vivo",
+            "subtitle": "Campeonato Nacional",
+            "thumb": "https://img.youtube.com/vi/ScMzIvxBSi4/hqdefault.jpg",
+            "date": "2026-10-18",
+            "time": "19:30"
+        }
+    ],
+    "noticia": [
+        {
+            "videoId": "jfKfPfyJRdk",
+            "name": "Plantão de Notícias",
+            "subtitle": "Informação em tempo real",
+            "thumb": "https://img.youtube.com/vi/jfKfPfyJRdk/hqdefault.jpg"
+        }
+    ]
+}
