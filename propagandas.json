@@ -5,7 +5,7 @@
         "titulo": "Brejo Santo<br>Burguer",
         "servicos": ["Cheddar Artesanal", "Carne Angus", "Molho Especial", "Batata Crocante"],
         "tempo_exibicao": 20,
-        "tamanho_zoom": "normal",
+        "tamanho_zoom": 1.18,
         "efeito_animacao": "burguer",
         "cor_fundo_rgb1": [230, 100, 20],
         "cor_fundo_rgb2": [130, 45, 5],
@@ -13,7 +13,8 @@
         "tamanho_fonte_titulo": "2.41rem",
         "tamanho_fonte_servicos": "1.8rem",
         "tipo": "circular",
-        "cor_texto": "#ffffff"
+        "cor_texto": "#ffffff",
+        "codigo_svg": ""
     },
     {
         "link_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53Yb2FmgS_ONkbg7g-hf4e644soE9pBNeOk-r_UUvfA&s",
@@ -21,7 +22,7 @@
         "titulo": "Piticas<br>Brejo Santo",
         "servicos": ["Moda Geek", "Camisetas Exclusivas", "Colecionáveis", "Universo Pop"],
         "tempo_exibicao": 20,
-        "tamanho_zoom": "largo",
+        "tamanho_zoom": 1.25,
         "efeito_animacao": "piticas",
         "cor_fundo_rgb1": [0, 0, 0],
         "cor_fundo_rgb2": [17, 17, 17],
@@ -29,7 +30,8 @@
         "tamanho_fonte_titulo": "2.41rem",
         "tamanho_fonte_servicos": "1.8rem",
         "tipo": "circular",
-        "cor_texto": "#ff6600"
+        "cor_texto": "#ff6600",
+        "codigo_svg": ""
     },
     {
         "link_logo": "",
@@ -37,7 +39,7 @@
         "titulo": "Visibilidade<br>estratégica",
         "servicos": ["Perfil Google", "Ranqueamento", "Mídia 360°", "TV Corporativa"],
         "tempo_exibicao": 20,
-        "tamanho_zoom": "normal",
+        "tamanho_zoom": 1.0,
         "efeito_animacao": "ranke",
         "cor_fundo_rgb1": [66, 133, 244],
         "cor_fundo_rgb2": [26, 115, 232],
@@ -45,7 +47,8 @@
         "tamanho_fonte_titulo": "2.41rem",
         "tamanho_fonte_servicos": "1.8rem",
         "tipo": "svg",
-        "cor_texto": "#ffffff"
+        "cor_texto": "#ffffff",
+        "codigo_svg": "<svg class=\"logo-slide-svg\" width=\"100\" height=\"50\" viewBox=\"0 0 43.203188 20.992598\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(-102.39376,-115.62291)\"><g transform=\"matrix(2.0134529,0,0,2.0134529,-442.0499,-285.34403)\"><text style=\"font-size:7.89632px;fill:#fff;font-family:Ibrand;\" x=\"270.166\" y=\"204.671\">Ranke</text><text style=\"font-size:5.99593px;fill:#fff;font-weight:bold;font-family:'Century Gothic';\" x=\"265.549\" y=\"221.76\" transform=\"scale(1.05845,0.944774)\">360</text><rect style=\"fill:#fff;\" width=\"10.236\" height=\"0.905\" x=\"270.42\" y=\"205.492\"/><rect style=\"fill:#fff;\" width=\"10.236\" height=\"0.905\" x=\"270.42\" y=\"208.559\"/><rect style=\"fill:#fff;\" width=\"10.236\" height=\"0.905\" x=\"270.42\" y=\"207.025\"/><path style=\"fill:#fff;\" d=\"m 291.265,204.578 a 0.595,0.595 0 0 0 -0.595,0.595 0.595,0.595 0 0 0 0.595,0.595 0.595,0.595 0 0 0 0.595,-0.595 0.595,0.595 0 0 0 -0.595,-0.595 z m 0,0.447 a 0.149,0.149 0 0 1 0.149,0.149 0.149,0.149 0 0 1 -0.149,0.149 0.149,0.149 0 0 1 -0.149,-0.149 0.149,0.149 0 0 1 0.149,-0.149 z\"/></g></g></svg>"
     },
     {
         "link_logo": "https://assets.zonalogo.com/automotive/byd.com/logo-dark-1787316479441-5916.svg",
@@ -53,7 +56,7 @@
         "titulo": "BYD Carmais<br>Juazeiro",
         "servicos": ["Carros Elétricos", "Carros Híbridos", "Inovação e Tecnologia", "Av. Padre Cícero"],
         "tempo_exibicao": 20,
-        "tamanho_zoom": "normal",
+        "tamanho_zoom": 1.0,
         "efeito_animacao": "byd",
         "cor_fundo_rgb1": [154, 154, 154],
         "cor_fundo_rgb2": [110, 110, 110],
@@ -61,6 +64,7 @@
         "tamanho_fonte_titulo": "2.41rem",
         "tamanho_fonte_servicos": "1.8rem",
         "tipo": "normal",
-        "cor_texto": "#ffffff"
+        "cor_texto": "#ffffff",
+        "codigo_svg": ""
     }
 ]
