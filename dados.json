@@ -48,20 +48,6 @@
       "isRanke": true,
       "duracao": 18000
     },
-    {
-      "cor1": [255, 255, 255],
-      "cor2": [245, 245, 245],
-      "titulo": "<span class='texto-gigante-anuncie'>ANUNCIE</span><span class='texto-gigante-aqui'>AQUI!</span>",
-      "servicos": [],
-      "imagem": "https://static.vecteezy.com/system/resources/previews/071/791/632/large_2x/red-and-white-megaphone-with-yellow-lightning-bolts-isolated-on-transparent-background-free-png.png",
-      "zoomImagem": "1.0",
-      "whatsapp": "5588988385551",
-      "customTextColor": "#dc2626",
-      "isBranco": true,
-      "semLinhas": true,
-      "isAnuncie": true,
-      "duracao": 7000
-    }
   ],
   "categories": {
     "forro": [
