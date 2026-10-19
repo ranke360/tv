@@ -11,7 +11,7 @@
       "cor2": [130, 45, 5],
       "titulo": "Brejo Santo<br>Burguer",
       "servicos": ["Carne Artesanal", "Batata Frita", "Petiscos", "Milk-Shake"],
-      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDAksi0ShvtF0kZnYPvLiX8pEUxLHMSXY_im7yrlH0zQ&s=10",
+      "imagem": "https://www.pngarts.com/files/18/Hamburger-Download-PNG-Image.png",
       "whatsapp": "5588999352040",
       "isBurguer": true,
       "isCircular": true,
@@ -35,6 +35,7 @@
       "cor2": [26, 115, 232],
       "titulo": "Visibilidade<br>estratégica",
       "servicos": ["Perfil Google", "Ranqueamento", "Mídia 360°", "Avaliações orgânicas"],
+      "imagem": "https://assets.stickpng.com/images/61488124d329bb0004dbd345.png",
       "isSvgLogo": true,
       "whatsapp": "5588988385551",
       "isRanke": true,
@@ -102,134 +103,6 @@
         "date": "2026-10-08",
         "videoId": "90qL39c4N0M",
         "thumb": "https://yt3.googleusercontent.com/NSfnfinfoqlldLwnbcuT_tMaQpHCpRwHtZBS-cbojGexXFZGV7723JALWiWSyBb-7tHCdi6hIg=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "UOL: UOL News 2ª Edição",
-        "subtitle": "UOL News 2ª Edição com Natália Mota, Thaís Bilenky e Leonardo Sakamoto | 9 de outubro de 2026",
-        "time": "16:00",
-        "date": "2026-10-09",
-        "videoId": "tTs6o6BBc2c",
-        "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "UOL: Pulso Político",
-        "subtitle": "Pulso Político com Daniela Lima ao vivo | 9 de outubro de 2026",
-        "time": "12:30",
-        "date": "2026-10-09",
-        "videoId": "X19QMvaMwoo",
-        "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "UOL: UOL News 1ª Edição",
-        "subtitle": "UOL News 1ª Edição com Fabíola Cidral e Josias de Souza | 9 de outubro de 2026",
-        "time": "10:00",
-        "date": "2026-10-09",
-        "videoId": "lsbnLJasIec",
-        "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "UOL: Datafolha ao vivo",
-        "subtitle": "Datafolha ao vivo: José Roberto de Toledo e Thaís Bilenky analisam os resultados da pesquisa",
-        "time": "19:15",
-        "date": "2026-10-08",
-        "videoId": "0EmDRamiOkM",
-        "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "UOL: UOL News 2ª Edição",
-        "subtitle": "UOL News 2ª Edição com Natália Mota, Alexandre Borges e Ricardo Kotscho | 8 de outubro de 2026",
-        "time": "16:00",
-        "date": "2026-10-08",
-        "videoId": "d8GVEHDOQPo",
-        "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "UOL: Debate PEC 6x1",
-        "subtitle": "Fim da escala 6x1: Senado discute PEC que reduz a jornada de trabalho; assista ao vivo",
-        "time": "14:00",
-        "date": "2026-10-08",
-        "videoId": "gYhZduIsxzY",
-        "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "UOL: Pulso Político",
-        "subtitle": "Pulso Político com Daniela Lima ao vivo | 8 de outubro de 2026",
-        "time": "12:30",
-        "date": "2026-10-08",
-        "videoId": "DnFhDhup8cE",
-        "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "UOL: Cobertura TSE",
-        "subtitle": "TSE julga anulação de votos de Garotinho e candidatura do Deltan Dallagnol; assista ao vivo",
-        "time": "10:00",
-        "date": "2026-10-08",
-        "videoId": "n0rX7m-xskA",
-        "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "UOL: UOL News 1ª Edição",
-        "subtitle": "UOL News 1ª Edição com Fabíola Cidral, Josias de Souza e Leonardo Sakamoto | 8 de outubro de 2026",
-        "time": "10:00",
-        "date": "2026-10-08",
-        "videoId": "D3fHf_MPPLQ",
-        "thumb": "https://yt3.googleusercontent.com/ukOUdTx4uhpLFu-xVSb2XIxRW22eljzVyEG-4X010tgxuQR9I8LvA1bzO-s6NlOUj6Z9FRPHWs8=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Revista Oeste: Outra Coisa",
-        "subtitle": "OUTRA COISA, COM GUILHERME FIUZA  | 10/10/2026",
-        "time": "20:00",
-        "date": "2026-10-10",
-        "videoId": "wfZ6G2Ywwzc",
-        "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Revista Oeste: Arena Oeste",
-        "subtitle": "ARENA OESTE #70 | TARCÍSIO DE FREITAS, GOVERNADOR DE SÃO PAULO",
-        "time": "20:30",
-        "date": "2026-10-08",
-        "videoId": "6CPQmI879wg",
-        "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Revista Oeste: Oeste Sem Filtro",
-        "subtitle": "OESTE SEM FILTRO | 08/10/2026",
-        "time": "17:45",
-        "date": "2026-10-08",
-        "videoId": "MnG8dVzAU5c",
-        "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Revista Oeste: Jornal da Oeste",
-        "subtitle": "JORNAL DA OESTE SEGUNDA EDIÇÃO, COM GEISIANE FREITAS | 08/10/2026",
-        "time": "16:00",
-        "date": "2026-10-08",
-        "videoId": "6wGux0IU838",
-        "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Revista Oeste: Faroeste à Brasileira",
-        "subtitle": "FAROESTE À BRASILEIRA, COM GUSTAVO SEGRÉ | 08/10/2026",
-        "time": "14:00",
-        "date": "2026-10-08",
-        "videoId": "hiquUfcqO0Y",
-        "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Revista Oeste: Oeste com Elas",
-        "subtitle": "OESTE COM ELAS | 08/10/2026",
-        "time": "10:00",
-        "date": "2026-10-08",
-        "videoId": "gBfuPIVCen8",
-        "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_nQrgMoxlvsfwpVAcbVPkWnh7PRUMlVFAyWjiWm0EeeJ_w=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Os Pingos Nos Is: Os Pingos Nos Is - 08/10/26",
-        "subtitle": "OS PINGOS NOS IS - 08/10/26",
-        "time": "18:00",
-        "date": "2026-10-08",
-        "videoId": "J4obAG-rQio",
-        "thumb": "https://i.ytimg.com/vi/J4obAG-rQio/maxresdefault.jpg"
       },
       {
         "name": "Pânico: Bella Falconi ao Vivo",
