@@ -62,19 +62,19 @@
     "mpb": [],
     "reggae": [],
     "sertanejo": [
-      { "name": "Jorge & Mateus", "videoId": "qfgIrpcyheg", "thumb": "https://yt3.googleusercontent.com/01kf-2hiZfo631t2kdLZrE4G7oyujyjgH0ON19qKxEOLyuOI32gE1G-aBYE4xivsolJqcU13Ew=s120-c-k-c0x00ffffff-no-rj" }
-      { "name": "Henrique & Juliano", "videoId": "06G-Nvozuj4", "thumb": "https://yt3.googleusercontent.com/nKH8O4Arv6kIKDNKwdV3MDVkJmwAAymwWjBc6gre6TmAAgrFR0uiSs7tvI1x7QmeIuhI8YCRECM=s120-c-k-c0x00ffffff-no-rj" }
-      { "name": "Marília Mendonça", "videoId": "CebT71NMtxI", "thumb": "https://yt3.googleusercontent.com/aDkvN_VbnUmHXLfDjWAImkusedp1ko2v14DmdGYdkHQBLysYv26FzzxKA25n6YWWusNhpUKtBg=s120-c-k-c0x00ffffff-no-rj" }
+      { "name": "Jorge & Mateus", "videoId": "qfgIrpcyheg", "thumb": "https://yt3.googleusercontent.com/01kf-2hiZfo631t2kdLZrE4G7oyujyjgH0ON19qKxEOLyuOI32gE1G-aBYE4xivsolJqcU13Ew=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Henrique & Juliano", "videoId": "06G-Nvozuj4", "thumb": "https://yt3.googleusercontent.com/nKH8O4Arv6kIKDNKwdV3MDVkJmwAAymwWjBc6gre6TmAAgrFR0uiSs7tvI1x7QmeIuhI8YCRECM=s120-c-k-c0x00ffffff-no-rj" },
+      { "name": "Marília Mendonça", "videoId": "CebT71NMtxI", "thumb": "https://yt3.googleusercontent.com/aDkvN_VbnUmHXLfDjWAImkusedp1ko2v14DmdGYdkHQBLysYv26FzzxKA25n6YWWusNhpUKtBg=s120-c-k-c0x00ffffff-no-rj" },
       { "name": "Gusttavo Lima", "videoId": "_idnfGZdjmo", "thumb": "https://yt3.googleusercontent.com/HmZtOZ4RQolEYj-oQti1vU8S3_BdTRrJvaTkP0TmFIXf4WO0pQBLBjKpoGf-j2rJIFRomTIL=s120-c-k-c0x00ffffff-no-rj" }
    
     
     ],
     "gospel": [
-      { "name": "Isadora Pompeo", "videoId": "wuYEMIUKXzM", "thumb": "https://yt3.googleusercontent.com/mEKrXFisv9gK0M-JOs2wVujmo28uECk6QNqYBSRex3vbQ-4F3BHsIn_ls1fhH8roiPqJHHMncMc=s160-c-k-c0x00ffffff-no-rj" }
-      { "name": "Jefferson & Suellen", "videoId": "EXHWKmJ4dwQ", "thumb": "https://yt3.googleusercontent.com/rqZukDv6yR3kck9K3yY695eCstHsvOy1S4JUNbu8B49A5ft_a5108WDXEBcwp5VY4Zd3krw4zA=s160-c-k-c0x00ffffff-no-rj" }
-      { "name": "Morada", "videoId": "LlPgjWHD2W4", "thumb": "https://yt3.googleusercontent.com/SwBlHy7hG8yaI01iTijCq9s54OPZyUXaIKpBN7_9HLLAa6t4ejZvUbgA6JPn2DbBGtCqUROFGw=s160-c-k-c0x00ffffff-no-rj" }
-      { "name": "Cassiane", "videoId": "jbamJNeDLwA", "thumb": "https://yt3.googleusercontent.com/5dsT-beLxfdrg0h22s01glezXsURCOAI6SyQDfEwOzb8YomWzE2GOQ19KfYmirinLMc8YVkuSA=s160-c-k-c0x00ffffff-no-rj" }
-      { "name": "Pr Marcus Salles", "videoId": "VzO8ADXq9uE", "thumb": "https://yt3.googleusercontent.com/Z-x6SS9-s6-NotLfU2uQ9GDshvUNYBGxriXh2qFk0n3Ru3enMfwsaJ3g_nPz7rib6B3zZAprDQ=s160-c-k-c0x00ffffff-no-rj" }
+      { "name": "Isadora Pompeo", "videoId": "wuYEMIUKXzM", "thumb": "https://yt3.googleusercontent.com/mEKrXFisv9gK0M-JOs2wVujmo28uECk6QNqYBSRex3vbQ-4F3BHsIn_ls1fhH8roiPqJHHMncMc=s160-c-k-c0x00ffffff-no-rj" },
+      { "name": "Jefferson & Suellen", "videoId": "EXHWKmJ4dwQ", "thumb": "https://yt3.googleusercontent.com/rqZukDv6yR3kck9K3yY695eCstHsvOy1S4JUNbu8B49A5ft_a5108WDXEBcwp5VY4Zd3krw4zA=s160-c-k-c0x00ffffff-no-rj" },
+      { "name": "Morada", "videoId": "LlPgjWHD2W4", "thumb": "https://yt3.googleusercontent.com/SwBlHy7hG8yaI01iTijCq9s54OPZyUXaIKpBN7_9HLLAa6t4ejZvUbgA6JPn2DbBGtCqUROFGw=s160-c-k-c0x00ffffff-no-rj" },
+      { "name": "Cassiane", "videoId": "jbamJNeDLwA", "thumb": "https://yt3.googleusercontent.com/5dsT-beLxfdrg0h22s01glezXsURCOAI6SyQDfEwOzb8YomWzE2GOQ19KfYmirinLMc8YVkuSA=s160-c-k-c0x00ffffff-no-rj" },
+      { "name": "Pr Marcus Salles", "videoId": "VzO8ADXq9uE", "thumb": "https://yt3.googleusercontent.com/Z-x6SS9-s6-NotLfU2uQ9GDshvUNYBGxriXh2qFk0n3Ru3enMfwsaJ3g_nPz7rib6B3zZAprDQ=s160-c-k-c0x00ffffff-no-rj" },
       { "name": "Fernandinho", "videoId": "e2STBJ7le8I", "thumb": "https://yt3.googleusercontent.com/dyvU59Pr4sSdQ9FIaKUSqCY7pB5u-EIygHAyRdl7QJ9twmlM02cUzaforkX2dYe-tgRm2XGeiQ=s120-c-k-c0x00ffffff-no-rj" }
     ],
     "rock": [],
