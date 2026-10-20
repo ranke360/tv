@@ -99,16 +99,24 @@
         "date": "2026-10-20",
         "videoId": "A7RSPs9pVJ4",
         "thumb": "https://i.ytimg.com/vi/A7RSPs9pVJ4/maxresdefault.jpg"
+      },
+      {
+        "name": "ge tv",
+        "subtitle": "AO VIVO! CORINTHIANS NA DRAGA! PALMEIRAS, FLU E FLA EM BUSCA DA LIBERTA! | Denilson show",
+        "time": "19:00",
+        "date": "2026-10-20",
+        "videoId": "oLGC8TItAIA",
+        "thumb": "https://i.ytimg.com/vi/oLGC8TItAIA/maxresdefault.jpg"
       }
     ],
     "noticia": [
       {
-        "name": "O POVO: O POVO News / Eleições e Política",
-        "subtitle": "🔴AO VIVO: Flávio recebe o apoio do Republicanos; Lula sobe o tom contra bandidos; nova Datafolha",
-        "time": "15:55",
-        "date": "2026-10-08",
-        "videoId": "nFQ1TUhki6A",
-        "thumb": "https://yt3.googleusercontent.com/NSfnfinfoqlldLwnbcuT_tMaQpHCpRwHtZBS-cbojGexXFZGV7723JALWiWSyBb-7tHCdi6hIg=s900-c-k-c0x00ffffff-no-rj"
+        "name": "Metrópoles",
+        "subtitle": "AO VIVO: Noblat (20/10)",
+        "time": "22:00",
+        "date": "2026-10-20",
+        "videoId": "MgP1fin7Smc",
+        "thumb": "https://i.ytimg.com/vi/MgP1fin7Smc/maxresdefault.jpg"
       },
       {
         "name": "O POVO: O POVO News / Geral",
