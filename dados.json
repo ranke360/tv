@@ -51,8 +51,8 @@
       "isPiticas": true,
       "isCircular": true,
       "isWideBorder": true,
-      "customTextColor": "#841FFF",
-      "barra": "#32EC6A",
+      "customTextColor": "#32EC6A",
+      "barra": "#841FFF",
       "duracao": 20000
     },
     {
