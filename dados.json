@@ -65,8 +65,9 @@
       "zoomImagem": "1.0",
       "bgImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXr8eBRkL8c6osq-vc68B4HRZQKQqy5_PqOMB6wZS7g&s=10",
       "zoomBg": "1.3",
+      "isWideBorder": true,
       "whatsapp": "5588988385551",
-      "isRanke": true,
+      "isBurguer": true,
       "duracao": 18000
     }
   ],
