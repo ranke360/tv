@@ -39,24 +39,6 @@
       "duracao": 20000
     },
     {
-      "cor1": [0, 0, 0],
-      "cor2": [17, 17, 17],
-      "titulo": "New Life<br>Fitness",
-      "servicos": ["Mais saúde", "Evolução", "Bem estar", "Nova vida"],
-      "imagem": "https://scontent.cdninstagram.com/v/t51.82787-19/834222650_18139925413717328_7764687398353909813_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wNJIX27psUQQ7kNvwHS-bk5&_nc_oc=Adp5eH76jHYwBObbcLDj19s2WWb0ouOZe-SQkVUXvnbXrIXDLnOId1RZMs-ur_bEdTo&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x3rF77v91aKd3wZ22nBHlg&_nc_ss=7b689&oh=00_AQPELgocfPSY_Lg5XpEW5_xIZQGI07vn8itfn-vo-XgXtA&oe=6ADEF5F4",
-      "zoomImagem": "1.0",
-      "bgImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXcc0UAxSQGDR2NxyKTqcsaMRsRBjOH2cER_8K8AcUw&s=10",
-      "zoomBg": "1.0",
-      "whatsapp": "",
-      "instagram": "https://www.instagram.com/newlifefitnessbs/",
-      "isPiticas": true,
-      "isCircular": true,
-      "isWideBorder": true,
-      "customTextColor": "#32EC6A",
-      "barra": "#841FFF",
-      "duracao": 20000
-    },
-    {
       "cor1": [66, 133, 244],
       "cor2": [26, 115, 232],
       "titulo": "Visibilidade<br>estratégica",
@@ -112,46 +94,46 @@
     ],
     "esporte": [
       {
-        "name": "CazéTV",
-        "subtitle": "AO VIVO: VASCO X BOCA JUNIORS | SUL-AMERICANA | NARRAÇÃO | NOCHE DE COPA",
-        "time": "20:20",
-        "date": "2026-10-20",
-        "videoId": "A7RSPs9pVJ4",
-        "thumb": "https://i.ytimg.com/vi/A7RSPs9pVJ4/maxresdefault.jpg"
+        "name": "X SPORTS",
+        "subtitle": "CRUZEIRO X LIBERTAD - LIBERTADORES FEMININA - QUARTAS DE FINAL - AO VIVO E COM IMAGENS",
+        "time": "20:50",
+        "date": "2026-10-25",
+        "videoId": "77e09b7x2kk",
+        "thumb": "https://i.ytimg.com/vi/77e09b7x2kk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBtGlcZ2tcfRUCqZlE1yBM_4I5MQQ"
       },
       {
         "name": "ge tv",
-        "subtitle": "AO VIVO! CORINTHIANS NA DRAGA! PALMEIRAS, FLU E FLA EM BUSCA DA LIBERTA! | Denilson show",
-        "time": "19:00",
-        "date": "2026-10-20",
-        "videoId": "oLGC8TItAIA",
-        "thumb": "https://i.ytimg.com/vi/oLGC8TItAIA/maxresdefault.jpg"
+        "subtitle": "KANSAS CITY CHIEFS X SEATTLE SEAHAWKS | AQUECIMENTO AO VIVO | NFL",
+        "time": "20:30",
+        "date": "2026-10-25",
+        "videoId": "EYtAsGo2Blg",
+        "thumb": "https://i.ytimg.com/vi/EYtAsGo2Blg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBm-14kyEClMU3Fh25Yb0G0oo4nXA"
       }
     ],
     "noticia": [
       {
-        "name": "Metrópoles",
-        "subtitle": "AO VIVO: Noblat (20/10)",
-        "time": "22:00",
-        "date": "2026-10-20",
-        "videoId": "MgP1fin7Smc",
-        "thumb": "https://i.ytimg.com/vi/MgP1fin7Smc/maxresdefault.jpg"
-      },
-      {
-        "name": "GCMAIS",
-        "subtitle": "Cidade Alerta CE | 20/10/26 | Acompanhe as principais notícias do dia!",
+        "name": "CNN Brasil",
+        "subtitle": "APURAÇÃO AO VIVO: CONTABILIZAÇÃO DE VOTOS É PAUSADA PELO TSE EM FUNÇÃO DA PRORROGAÇÃO",
         "time": "18:00",
-        "date": "2026-10-20",
-        "videoId": "Rj6nArVqolw",
-        "thumb": "https://i.ytimg.com/vi/Rj6nArVqolw/maxresdefault.jpg"
+        "date": "2026-10-25",
+        "videoId": "wwLxIO0zTP8",
+        "thumb": "https://i.ytimg.com/vi/wwLxIO0zTP8/hq720.jpg?v=6ade615d&sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDg4zWgubRwaL-Nq-nLC_xD81xYw"
       },
       {
-        "name": "Pânico: Bella Falconi ao Vivo",
-        "subtitle": "BELLA FALCONI AO VIVO | PÂNICO - 08/10/26",
-        "time": "12:00",
-        "date": "2026-10-08",
-        "videoId": "EauiFSwLelI",
-        "thumb": "https://i.ytimg.com/vi/EauiFSwLelI/maxresdefault.jpg"
+        "name": "REVISTA OESTE",
+        "subtitle": "OESTE ELEIÇÕES 2026: APURAÇÃO E RESULTADOS AO VIVO | DOMINGO - 25/10",
+        "time": "18:00",
+        "date": "2026-10-25",
+        "videoId": "c8Lw8b6WX0k",
+        "thumb": "https://i.ytimg.com/vi/c8Lw8b6WX0k/hq720.jpg?v=6ada6666&sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDMG5o08c4J37n3PRB2fKk2xROvNw"
+      },
+      {
+        "name": "Band Jornalismo",
+        "subtitle": "Eleições 2026: votação vai até às 19h; urnas do exterior são contabilizadas",
+        "time": "18:00",
+        "date": "2026-10-25",
+        "videoId": "2gRTiQYxhOg",
+        "thumb": "https://i.ytimg.com/vi/2gRTiQYxhOg/hq720.jpg?v=6ade6228&sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDabdR-bTbPabT5W32YH5H8yqIA_Q"
       }
     ]
   }
