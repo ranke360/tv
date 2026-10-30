@@ -96,30 +96,6 @@
     ],
   "esporte": [
     {
-      "name": "Xsports",
-      "subtitle": "CORINTHIANS X GUARANI | QUARTAS DE FINAL DO PAULISTÃO SUB-20 | AO VIVO E COM IMAGENS",
-      "time": "18:45",
-      "date": "2026-10-29",
-      "videoId": "J5F1n86rJhQ",
-      "thumb": "https://i.ytimg.com/vi/J5F1n86rJhQ/maxresdefault.jpg"
-    },
-    {
-      "name": "Record News",
-      "subtitle": "Esporte Record News - 29/10/2026",
-      "time": "18:40",
-      "date": "2026-10-29",
-      "videoId": "FtMSgerM0O4",
-      "thumb": "https://i.ytimg.com/vi/FtMSgerM0O4/maxresdefault.jpg"
-    },
-    {
-      "name": "Esporte na Band",
-      "subtitle": "[AO VIVO] FÓRMULA BAND BASTIDORES| 30/10/2026",
-      "time": "20:00",
-      "date": "2026-10-30",
-      "videoId": "ZrlsHONj3EQ",
-      "thumb": "https://i.ytimg.com/vi/ZrlsHONj3EQ/maxresdefault.jpg"
-    },
-    {
       "name": "Esporte na Band",
       "subtitle": "[AO VIVO] CORINTHIANS X MIRASSOL PELO BRASILEIRÃO | PRÉ-JOGO - 30/10/2026",
       "time": "18:00",
@@ -129,91 +105,19 @@
     },
     {
       "name": "UOL Esporte",
-      "subtitle": "CORINTHIANS X CRUZEIRO | FINAL DA LIBERTADORES FEMININA | AO VIVO E COM IMAGENS",
-      "time": "21:00",
-      "date": "2026-10-31",
-      "videoId": "6wpGTCUhOGM",
-      "thumb": "https://i.ytimg.com/vi/6wpGTCUhOGM/maxresdefault.jpg"
-    },
-    {
-      "name": "UOL Esporte",
       "subtitle": "FIM DE PAPO AO VIVO | 30 DE OUTUBRO",
       "time": "18:00",
       "date": "2026-10-30",
-      "videoId": "h1PacL_DihY",
-      "thumb": "https://i.ytimg.com/vi/h1PacL_DihY/maxresdefault.jpg"
+      "videoId": "kIYCyQ4g6Z0",
+      "thumb": "https://i.ytimg.com/vi/kIYCyQ4g6Z0/maxresdefault.jpg"
     },
     {
-      "name": "UOL Esporte",
-      "subtitle": "FIM DE PAPO AO VIVO | 29 DE OUTUBRO",
+      "name": "ge tv",
+      "subtitle": "AO VIVO: PINHEIROS X BRUSQUE | SUPERLIGA FEMININA DE VÔLEI 2026/27 | ge tv",
       "time": "18:00",
-      "date": "2026-10-29",
-      "videoId": "Ivw7SlLJs1s",
-      "thumb": "https://i.ytimg.com/vi/Ivw7SlLJs1s/maxresdefault.jpg"
-    },
-    {
-      "name": "UOL Esporte",
-      "subtitle": "BALTIKA X ZENIT: AO VIVO | COPA DA RÚSSIA | FASE DE GRUPOS | COM IMAGENS E NARRAÇÃO",
-      "time": "23:33",
-      "date": "2026-10-29",
-      "videoId": "vPGHCR2P_Rw",
-      "thumb": "https://i.ytimg.com/vi/vPGHCR2P_Rw/maxresdefault.jpg"
-    },
-    {
-      "name": "UOL Esporte",
-      "subtitle": "SC BRAGA X FAMALICÃO: AO VIVO | TAÇA DA LIGA DE PORTUGAL | QUARTAS DE FINAL | COM IMAGENS E NARRAÇÃO",
-      "time": "23:32",
-      "date": "2026-10-29",
-      "videoId": "Knvm7SqQrrY",
-      "thumb": "https://i.ytimg.com/vi/Knvm7SqQrrY/maxresdefault.jpg"
-    },
-    {
-      "name": "SportyNet",
-      "subtitle": "OPERÁRIO X SPORT: AO VIVO E COM IMAGENS | RODADA 37 | SÉRIE B",
-      "time": "18:30",
-      "date": "2026-11-06",
-      "videoId": "5Am5WZzuYNg",
-      "thumb": "https://i.ytimg.com/vi/5Am5WZzuYNg/maxresdefault.jpg"
-    },
-    {
-      "name": "SportyNet",
-      "subtitle": "GOIÁS X CRB: AO VIVO E COM IMAGENS | RODADA 37 | SÉRIE B",
-      "time": "19:30",
-      "date": "2026-11-02",
-      "videoId": "oD9qc6HTIPQ",
-      "thumb": "https://i.ytimg.com/vi/oD9qc6HTIPQ/maxresdefault.jpg"
-    },
-    {
-      "name": "SportyNet",
-      "subtitle": "CRUZ AZUL X LEON: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 15 - APERTURA | CAMPEONATO MEXICANO",
-      "time": "21:00",
-      "date": "2026-11-01",
-      "videoId": "jp008q91gUI",
-      "thumb": "https://i.ytimg.com/vi/jp008q91gUI/maxresdefault.jpg"
-    },
-    {
-      "name": "SportyNet",
-      "subtitle": "AMÉRICA-MEX X TOLUCA: AO VIVO, COM IMAGENS E EXCLUSIVO| RODADA 15 - APERTURA |CAMPEONATO MEXICANO",
-      "time": "23:45",
-      "date": "2026-10-31",
-      "videoId": "r1HbsUpCqfE",
-      "thumb": "https://i.ytimg.com/vi/r1HbsUpCqfE/maxresdefault.jpg"
-    },
-    {
-      "name": "ge tv",
-      "subtitle": "AO VIVO: JACKSONVILLE JAGUARS X BALTIMORE RAVENS | NFL 2026/27 | ge tv",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "videoId": "TEx8KlYjDAk",
-      "thumb": "https://i.ytimg.com/vi/TEx8KlYjDAk/maxresdefault.jpg"
-    },
-    {
-      "name": "ge tv",
-      "subtitle": "PHILADELPHIA EAGLES X WASHINGTON COMMANDERS | AQUECIMENTO AO VIVO | NFL | #live | sportv",
-      "time": "20:30",
-      "date": "2026-11-01",
-      "videoId": "YnlvVrNFx5c",
-      "thumb": "https://i.ytimg.com/vi/YnlvVrNFx5c/maxresdefault.jpg"
+      "date": "2026-10-30",
+      "videoId": "jOI-1I9MVEQ",
+      "thumb": "https://i.ytimg.com/vi/jOI-1I9MVEQ/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
@@ -224,20 +128,28 @@
       "thumb": "https://i.ytimg.com/vi/FcqUaxsQHNQ/maxresdefault.jpg"
     },
     {
-      "name": "ge tv",
-      "subtitle": "AO VIVO: GREEN BAY PACKERS X CAROLINA PANTHERS | NFL 2026/27 | ge tv",
-      "time": "21:00",
-      "date": "2026-10-29",
-      "videoId": "NfKn_iS2Idw",
-      "thumb": "https://i.ytimg.com/vi/NfKn_iS2Idw/maxresdefault.jpg"
+      "name": "ESPN Brasil",
+      "subtitle": "FLAMENGO X BARCELONA AO VIVO: ASSISTA À DISPUTA PELO QUINTO LUGAR DA MESSI CUP DE GRAÇA | ESPN",
+      "time": "19:30",
+      "date": "2026-10-30",
+      "videoId": "9vassgxiRIc",
+      "thumb": "https://i.ytimg.com/vi/9vassgxiRIc/maxresdefault.jpg"
     },
     {
-      "name": "ge tv",
-      "subtitle": "GRÊMIO X ATHLETICO-PR | AQUECIMENTO AO VIVO | BRASILEIRÃO 2026 | #live | sportv",
-      "time": "20:30",
-      "date": "2026-10-29",
-      "videoId": "xwhPKMVtapI",
-      "thumb": "https://i.ytimg.com/vi/xwhPKMVtapI/maxresdefault.jpg"
+      "name": "Xsports",
+      "subtitle": "FLAMENGO X CAXIAS DO SUL | NBB | AO VIVO E COM IMAGENS",
+      "time": "19:50",
+      "date": "2026-10-30",
+      "videoId": "NJP_hX6D4_c",
+      "thumb": "https://i.ytimg.com/vi/NJP_hX6D4_c/maxresdefault.jpg"
+    },
+    {
+      "name": "Esporte na Band",
+      "subtitle": "[AO VIVO] FÓRMULA BAND BASTIDORES| 30/10/2026",
+      "time": "20:00",
+      "date": "2026-10-30",
+      "videoId": "ZrlsHONj3EQ",
+      "thumb": "https://i.ytimg.com/vi/ZrlsHONj3EQ/maxresdefault.jpg"
     },
     {
       "name": "Grande Prêmio",
@@ -246,46 +158,6 @@
       "date": "2026-10-30",
       "videoId": "zXpG3fxAIbw",
       "thumb": "https://i.ytimg.com/vi/zXpG3fxAIbw/maxresdefault.jpg"
-    },
-    {
-      "name": "Combate",
-      "subtitle": "AO VIVO! UFC BJJ 13 | QUATRO PRIMEIRAS LUTAS | Combate.globo",
-      "time": "21:00",
-      "date": "2026-10-29",
-      "videoId": "7CTF5nmeSkc",
-      "thumb": "https://i.ytimg.com/vi/7CTF5nmeSkc/maxresdefault.jpg"
-    },
-    {
-      "name": "TNT Sports Brasil",
-      "subtitle": "AO VIVO: VASCO DA GAMA X FLAMENGO (NARRAÇÃO E PÓS-JOGO) | BRASILEIRÃO 2026",
-      "time": "19:30",
-      "date": "2026-10-29",
-      "videoId": "eH9UvkR__ak",
-      "thumb": "https://i.ytimg.com/vi/eH9UvkR__ak/maxresdefault.jpg"
-    },
-    {
-      "name": "UFC Brasil",
-      "subtitle": "Pós-Show | UFC Vegas 123: Moicano x Nolan",
-      "time": "23:59",
-      "date": "2026-10-31",
-      "videoId": "wEVeETdy5no",
-      "thumb": "https://i.ytimg.com/vi/wEVeETdy5no/maxresdefault.jpg"
-    },
-    {
-      "name": "ESPN Brasil",
-      "subtitle": "GOIÁS X CRB AO VIVO: ABRE O JOGO DA SÉRIE B | B DE BOLA 52",
-      "time": "18:00",
-      "date": "2026-11-02",
-      "videoId": "2RUK252D_e8",
-      "thumb": "https://i.ytimg.com/vi/2RUK252D_e8/maxresdefault.jpg"
-    },
-    {
-      "name": "ESPN Brasil",
-      "subtitle": "PALMEIRAS X AJAX AO VIVO: ASSISTA À SEMIFINAL DA MESSI CUP DE GRAÇA | ESPN",
-      "time": "18:00",
-      "date": "2026-10-31",
-      "videoId": "vKVHdcMzI_k",
-      "thumb": "https://i.ytimg.com/vi/vKVHdcMzI_k/maxresdefault.jpg"
     },
     {
       "name": "ESPN Brasil",
@@ -297,197 +169,107 @@
     },
     {
       "name": "ESPN Brasil",
-      "subtitle": "FLAMENGO X BARCELONA AO VIVO: ASSISTA À DISPUTA PELO QUINTO LUGAR DA MESSI CUP DE GRAÇA | ESPN",
-      "time": "19:30",
+      "subtitle": "CORINTHIANS X CRUZEIRO AO VIVO: TODOS OS DETALHES DA GRANDE DECISÃO DA LIBERTADORES | MINA DE PASSE",
+      "time": "21:00",
       "date": "2026-10-30",
-      "videoId": "9vassgxiRIc",
-      "thumb": "https://i.ytimg.com/vi/9vassgxiRIc/maxresdefault.jpg"
+      "videoId": "1k6_QMFNdlc",
+      "thumb": "https://i.ytimg.com/vi/1k6_QMFNdlc/maxresdefault.jpg"
     },
     {
       "name": "ESPN Brasil",
-      "subtitle": "AO VIVO: VASCO X FLAMENGO | ATLÉTICO X CRUZEIRO | RODADA DO BRASILEIRÃO | EQUIPE F",
-      "time": "18:45",
-      "date": "2026-10-29",
-      "videoId": "mlYMTgWXQpY",
-      "thumb": "https://i.ytimg.com/vi/mlYMTgWXQpY/maxresdefault.jpg"
-    }
-  ],
-  "noticia": [
-    {
-      "name": "CNN Brasil",
-      "subtitle": "ENEM AO VIVO: CORREÇÃO EXTRAOFICIONAL DO PRIMEIRO DIA DE PROVA; ASSISTA EM TEMPO REAL - 08/10/26",
-      "time": "18:50",
-      "date": "2026-11-08",
-      "videoId": "U2L20q4kV7g",
-      "thumb": "https://i.ytimg.com/vi/U2L20q4kV7g/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: AMÉRICA DECIDE ESPECIAL - 03/11/2026",
+      "subtitle": "CORINTHIANS X MIRASSOL AO VIVO: PÓS-JOGO DA BRIGA CONTRA O Z-4 NO BRASILEIRÃO | LINHA DE PASSE",
       "time": "22:00",
-      "date": "2026-11-03",
-      "videoId": "83d-7fjHE2g",
-      "thumb": "https://i.ytimg.com/vi/83d-7fjHE2g/maxresdefault.jpg"
+      "date": "2026-10-30",
+      "videoId": "ULn1HCxdpJA",
+      "thumb": "https://i.ytimg.com/vi/ULn1HCxdpJA/maxresdefault.jpg"
     },
     {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: AMÉRICA DECIDE ESPECIAL - DECIFRANDO AS MIDTERMS | 29/10/2026",
-      "time": "23:00",
-      "date": "2026-10-29",
-      "videoId": "W4n2yy0YtNw",
-      "thumb": "https://i.ytimg.com/vi/W4n2yy0YtNw/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: WW - 29/10/2026",
-      "time": "22:00",
-      "date": "2026-10-29",
-      "videoId": "qQkckzJF_bU",
-      "thumb": "https://i.ytimg.com/vi/qQkckzJF_bU/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: CNN PRIME TIME - 29/10/2026",
-      "time": "20:00",
-      "date": "2026-10-29",
-      "videoId": "Nmpn3i_s2UE",
-      "thumb": "https://i.ytimg.com/vi/Nmpn3i_s2UE/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: ASSESSOR DE TRUMP FRETOU JATO PARA FLÁVIO, DIZ JORNAL | CNN 360°",
-      "time": "22:51",
-      "date": "2026-10-29",
-      "videoId": "5fygIPLzJ4w",
-      "thumb": "https://i.ytimg.com/vi/5fygIPLzJ4w/maxresdefault.jpg"
-    },
-    {
-      "name": "Discovery Brasil",
-      "subtitle": "MARATONA - O Melhor de Operação Fronteira",
+      "name": "ESPN Brasil",
+      "subtitle": "PALMEIRAS X AJAX AO VIVO: ASSISTA À SEMIFINAL DA MESSI CUP DE GRAÇA | ESPN",
       "time": "18:00",
-      "date": "2026-10-29",
-      "videoId": "Kb139rXXAH0",
-      "thumb": "https://i.ytimg.com/vi/Kb139rXXAH0/maxresdefault.jpg"
+      "date": "2026-10-31",
+      "videoId": "vKVHdcMzI_k",
+      "thumb": "https://i.ytimg.com/vi/vKVHdcMzI_k/maxresdefault.jpg"
     },
     {
-      "name": "Discovery Brasil",
-      "subtitle": "📺 MARATONA - O Melhor de Aeroporto: Área Restrita",
-      "time": "20:50",
-      "date": "2026-10-29",
-      "videoId": "4CSQdYUsdqk",
-      "thumb": "https://i.ytimg.com/vi/4CSQdYUsdqk/maxresdefault.jpg"
-    },
-    {
-      "name": "CazéTV",
-      "subtitle": "AO VIVO: ATHLETICO X VASCO | BRASILEIRÃO 2026 | 34ª RODADA",
-      "time": "18:30",
-      "date": "2026-11-04",
-      "videoId": "cOjixSohLkY",
-      "thumb": "https://i.ytimg.com/vi/cOjixSohLkY/maxresdefault.jpg"
-    },
-    {
-      "name": "CazéTV",
-      "subtitle": "AO VIVO: ESPANHA X EUA | COPA DO MUNDO FEMININA SUB-17 2026 | OITAVAS DE FINAL",
-      "time": "19:30",
-      "date": "2026-10-29",
-      "videoId": "GYxIbplDOBY",
-      "thumb": "https://i.ytimg.com/vi/GYxIbplDOBY/maxresdefault.jpg"
-    },
-    {
-      "name": "Record News",
-      "subtitle": "News das 10 - 29/10/2026",
-      "time": "22:25",
-      "date": "2026-10-29",
-      "videoId": "0m4tsInKfD8",
-      "thumb": "https://i.ytimg.com/vi/0m4tsInKfD8/maxresdefault.jpg"
-    },
-    {
-      "name": "Record News",
-      "subtitle": "Jornal da Record News - 29/10/2026",
-      "time": "20:55",
-      "date": "2026-10-29",
-      "videoId": "nAqhT4B6XR8",
-      "thumb": "https://i.ytimg.com/vi/nAqhT4B6XR8/maxresdefault.jpg"
-    },
-    {
-      "name": "Record News",
-      "subtitle": "Elas com a Bola - 29/10/2026",
-      "time": "19:40",
-      "date": "2026-10-29",
-      "videoId": "6lw2Ct0UlDM",
-      "thumb": "https://i.ytimg.com/vi/6lw2Ct0UlDM/maxresdefault.jpg"
-    },
-    {
-      "name": "Record News",
-      "subtitle": "News 19 Horas - 29/10/2026",
-      "time": "18:55",
-      "date": "2026-10-29",
-      "videoId": "MDWNOTsnrh8",
-      "thumb": "https://i.ytimg.com/vi/MDWNOTsnrh8/maxresdefault.jpg"
-    },
-    {
-      "name": "SBT News",
-      "subtitle": "NEWS NOITE | 29/10/2026",
-      "time": "20:30",
-      "date": "2026-10-29",
-      "videoId": "rSaDdoONlIw",
-      "thumb": "https://i.ytimg.com/vi/rSaDdoONlIw/maxresdefault.jpg"
-    },
-    {
-      "name": "SBT News",
-      "subtitle": "JORNAL DO SBT NEWS | 29/10/2026",
-      "time": "18:30",
-      "date": "2026-10-29",
-      "videoId": "noh3F6VTOhs",
-      "thumb": "https://i.ytimg.com/vi/noh3F6VTOhs/maxresdefault.jpg"
-    },
-    {
-      "name": "SBT News",
-      "subtitle": "🔴 AO VIVO: PODER EXPRESSO, com Lívia Zanolini | 29/10/2026",
-      "time": "23:19",
-      "date": "2026-10-29",
-      "videoId": "S16vLmT4_Ak",
-      "thumb": "https://i.ytimg.com/vi/S16vLmT4_Ak/maxresdefault.jpg"
-    },
-    {
-      "name": "Jovem Pan News",
-      "subtitle": "JORNAL JOVEM PAN - 29/10/26",
-      "time": "20:15",
-      "date": "2026-10-29",
-      "videoId": "UzL_GzXowi4",
-      "thumb": "https://i.ytimg.com/vi/UzL_GzXowi4/maxresdefault.jpg"
-    },
-    {
-      "name": "Jovem Pan News",
-      "subtitle": "OS PINGOS NOS IS - 29/10/26",
-      "time": "18:00",
-      "date": "2026-10-29",
-      "videoId": "B0iHcD43xGM",
-      "thumb": "https://i.ytimg.com/vi/B0iHcD43xGM/maxresdefault.jpg"
-    },
-    {
-      "name": "Jovem Pan News",
-      "subtitle": "3 EM 1 - 29/10/2026",
-      "time": "23:55",
-      "date": "2026-10-29",
-      "videoId": "843XPXRszQI",
-      "thumb": "https://i.ytimg.com/vi/843XPXRszQI/maxresdefault.jpg"
-    },
-    {
-      "name": "O POVO",
-      "subtitle": "🔴AO VIVO: O POVO News 2ª Edição: acompanhe as últimas notícias 29/10/2026 | OP NEWS",
-      "time": "18:00",
-      "date": "2026-10-29",
-      "videoId": "w9CQY94n8UQ",
-      "thumb": "https://i.ytimg.com/vi/w9CQY94n8UQ/maxresdefault.jpg"
+      "name": "LNFTV",
+      "subtitle": "JOGO AO VIVO E COM IMAGENS | COPA LNF CRESOL 2026 | JOINVILLE X ACBF | FINAL",
+      "time": "19:00",
+      "date": "2026-10-31",
+      "videoId": "MNlWM3lhrBY",
+      "thumb": "https://i.ytimg.com/vi/MNlWM3lhrBY/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
-      "subtitle": "SÃO PAULO X CORINTHIANS | AO VIVO E COM IMAGENS | BRASILEIRÃO 2026 | ge tv",
-      "time": "19:00",
-      "date": "2026-11-04",
-      "videoId": "TzBl51tTBmU",
-      "thumb": "https://i.ytimg.com/vi/TzBl51tTBmU/maxresdefault.jpg"
+      "subtitle": "AO VIVO: NÁUTICO X AVAÍ | BRASILEIRÃO SÉRIE B 2026 | ge tv",
+      "time": "19:15",
+      "date": "2026-10-31",
+      "videoId": "C00XM8ryHko",
+      "thumb": "https://i.ytimg.com/vi/C00XM8ryHko/maxresdefault.jpg"
+    },
+    {
+      "name": "N Sports",
+      "subtitle": "AO VIVO E COM IMAGENS | CORINTHIANS X CRUZEIRO | FINAL | LIBERTADORES FEMININA 2026",
+      "time": "20:30",
+      "date": "2026-10-31",
+      "videoId": "p5rhzOkKCR4",
+      "thumb": "https://i.ytimg.com/vi/p5rhzOkKCR4/maxresdefault.jpg"
+    },
+    {
+      "name": "UOL Esporte",
+      "subtitle": "CORINTHIANS X CRUZEIRO | FINAL DA LIBERTADORES FEMININA | AO VIVO E COM IMAGENS",
+      "time": "21:00",
+      "date": "2026-10-31",
+      "videoId": "6wpGTCUhOGM",
+      "thumb": "https://i.ytimg.com/vi/6wpGTCUhOGM/maxresdefault.jpg"
+    },
+    {
+      "name": "TNT Sports Brasil",
+      "subtitle": "AO VIVO: NEW ENGLAND REVOLUTION X INTER MIAMI | MESSI EM CAMPO NA MLS COM IMAGENS",
+      "time": "19:30",
+      "date": "2026-11-01",
+      "videoId": "rpomdycLyaY",
+      "thumb": "https://i.ytimg.com/vi/rpomdycLyaY/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Esportes",
+      "subtitle": "AO VIVO: Entrevista com Rafinha Alcântara, ex-Barcelona e PSG, e empresário | ESPORTES S/A",
+      "time": "20:15",
+      "date": "2026-11-01",
+      "videoId": "N3lMWsfWiJ0",
+      "thumb": "https://i.ytimg.com/vi/N3lMWsfWiJ0/maxresdefault.jpg"
+    },
+    {
+      "name": "ge tv",
+      "subtitle": "PHILADELPHIA EAGLES X WASHINGTON COMMANDERS | AQUECIMENTO AO VIVO | NFL | #live | sportv",
+      "time": "20:30",
+      "date": "2026-11-01",
+      "videoId": "YnlvVrNFx5c",
+      "thumb": "https://i.ytimg.com/vi/YnlvVrNFx5c/maxresdefault.jpg"
+    },
+    {
+      "name": "SportyNet",
+      "subtitle": "CRUZ AZUL X LEON: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 15 - APERTURA | CAMPEONATO MEXICANO",
+      "time": "21:00",
+      "date": "2026-11-01",
+      "videoId": "jp008q91gUI",
+      "thumb": "https://i.ytimg.com/vi/jp008q91gUI/maxresdefault.jpg"
+    },
+    {
+      "name": "ESPN Brasil",
+      "subtitle": "GOIÁS X CRB AO VIVO: ABRE O JOGO DA SÉRIE B | B DE BOLA 52",
+      "time": "18:00",
+      "date": "2026-11-02",
+      "videoId": "2RUK252D_e8",
+      "thumb": "https://i.ytimg.com/vi/2RUK252D_e8/maxresdefault.jpg"
+    },
+    {
+      "name": "SportyNet",
+      "subtitle": "GOIÁS X CRB: AO VIVO E COM IMAGENS | RODADA 37 | SÉRIE B",
+      "time": "19:30",
+      "date": "2026-11-02",
+      "videoId": "oD9qc6HTIPQ",
+      "thumb": "https://i.ytimg.com/vi/oD9qc6HTIPQ/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
@@ -499,51 +281,117 @@
     },
     {
       "name": "ge tv",
-      "subtitle": "AO VIVO: NÁUTICO X AVAÍ | BRASILEIRÃO SÉRIE B 2026 | ge tv",
+      "subtitle": "SÃO PAULO X CORINTHIANS | AO VIVO E COM IMAGENS | BRASILEIRÃO 2026 | ge tv",
       "time": "19:00",
-      "date": "2026-10-31",
-      "videoId": "C00XM8ryHko",
-      "thumb": "https://i.ytimg.com/vi/C00XM8ryHko/maxresdefault.jpg"
+      "date": "2026-11-04",
+      "videoId": "TzBl51tTBmU",
+      "thumb": "https://i.ytimg.com/vi/TzBl51tTBmU/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
-      "subtitle": "AO VIVO: PINHEIROS X BRUSQUE | SUPERLIGA FEMININA DE VÔLEI 2026/27 | ge tv",
+      "subtitle": "AO VIVO: JACKSONVILLE JAGUARS X BALTIMORE RAVENS | NFL 2026/27 | ge tv",
+      "time": "21:00",
+      "date": "2026-11-05",
+      "videoId": "TEx8KlYjDAk",
+      "thumb": "https://i.ytimg.com/vi/TEx8KlYjDAk/maxresdefault.jpg"
+    },
+    {
+      "name": "SportyNet",
+      "subtitle": "OPERÁRIO X SPORT: AO VIVO E COM IMAGENS | RODADA 37 | SÉRIE B",
+      "time": "18:30",
+      "date": "2026-11-06",
+      "videoId": "5Am5WZzuYNg",
+      "thumb": "https://i.ytimg.com/vi/5Am5WZzuYNg/maxresdefault.jpg"
+    },
+    {
+      "name": "SportyNet",
+      "subtitle": "UNAM PUMAS X AMÉRICA-MEX: AO VIVO, COM IMAGENS E EXCLUSIVO| RODADA 16 - APERTURA|CAMPEONATO MEXICANO",
+      "time": "22:45",
+      "date": "2026-11-07",
+      "videoId": "i-Fbrhfr9KI",
+      "thumb": "https://i.ytimg.com/vi/i-Fbrhfr9KI/maxresdefault.jpg"
+    }
+  ],
+  "noticia": [
+    {
+      "name": "Discovery Brasil",
+      "subtitle": "MARATONA - O Melhor de Largados e Pelados",
       "time": "18:00",
       "date": "2026-10-30",
-      "videoId": "jOI-1I9MVEQ",
-      "thumb": "https://i.ytimg.com/vi/jOI-1I9MVEQ/maxresdefault.jpg"
+      "videoId": "vz2phjhXzvk",
+      "thumb": "https://i.ytimg.com/vi/vz2phjhXzvk/maxresdefault.jpg"
     },
     {
-      "name": "UOL",
-      "subtitle": "Trump teria ajudado Flávio a sair do Brasil; Janones não descarta ministério; vaga no STF e mais",
-      "time": "23:55",
-      "date": "2026-10-29",
-      "videoId": "lgKS8CATgIc",
-      "thumb": "https://i.ytimg.com/vi/lgKS8CATgIc/maxresdefault.jpg"
+      "name": "Jovem Pan News",
+      "subtitle": "PLANO ECONÔMICO DO GOVERNO E POLÊMICA SOBRE BOICOTES E DEMISSÕES  | OS PINGOS NOS IS - 30/10/2026",
+      "time": "18:00",
+      "date": "2026-10-30",
+      "videoId": "_FdTRqlYGFA",
+      "thumb": "https://i.ytimg.com/vi/_FdTRqlYGFA/maxresdefault.jpg"
     },
     {
-      "name": "UOL",
-      "subtitle": "STF discute aposentadoria de mulheres na previdência privada e+ pautas; assista ao vivo",
-      "time": "22:35",
-      "date": "2026-10-29",
-      "videoId": "ci57mgMA-RE",
-      "thumb": "https://i.ytimg.com/vi/ci57mgMA-RE/maxresdefault.jpg"
+      "name": "GCMAIS",
+      "subtitle": "Cidade Alerta CE | 30/10/26 | Acompanhe as principais notícias do dia!",
+      "time": "18:00",
+      "date": "2026-10-30",
+      "videoId": "_G_y5PV5U08",
+      "thumb": "https://i.ytimg.com/vi/_G_y5PV5U08/maxresdefault.jpg"
     },
     {
-      "name": "TV Gazeta",
-      "subtitle": "TV Gazeta | AO VIVO | 29/10/2026",
-      "time": "19:50",
-      "date": "2026-10-29",
-      "videoId": "pBuPqgczsWs",
-      "thumb": "https://i.ytimg.com/vi/pBuPqgczsWs/maxresdefault.jpg"
+      "name": "Os Pingos nos Is",
+      "subtitle": "PLANO ECONÔMICO DO GOVERNO E POLÊMICA SOBRE BOICOTES E DEMISSÕES  | OS PINGOS NOS IS - 30/10/2026",
+      "time": "18:00",
+      "date": "2026-10-30",
+      "videoId": "RyXjOquCwrc",
+      "thumb": "https://i.ytimg.com/vi/RyXjOquCwrc/maxresdefault.jpg"
     },
     {
-      "name": "Domingo Espetacular",
-      "subtitle": "Domingo Espetacular: os sabores e as histórias do Comendo por Aí",
-      "time": "19:57",
-      "date": "2026-10-29",
-      "videoId": "iSF4GJvQfaA",
-      "thumb": "https://i.ytimg.com/vi/iSF4GJvQfaA/maxresdefault.jpg"
+      "name": "SBT News",
+      "subtitle": "JORNAL DO SBT NEWS | 30/10/2026",
+      "time": "18:30",
+      "date": "2026-10-30",
+      "videoId": "8Q5nDh9e3Fc",
+      "thumb": "https://i.ytimg.com/vi/8Q5nDh9e3Fc/maxresdefault.jpg"
+    },
+    {
+      "name": "Record News",
+      "subtitle": "Esporte Record News - 30/10/2026",
+      "time": "18:40",
+      "date": "2026-10-30",
+      "videoId": "JwzcYqeIres",
+      "thumb": "https://i.ytimg.com/vi/JwzcYqeIres/maxresdefault.jpg"
+    },
+    {
+      "name": "Record News",
+      "subtitle": "News 19 Horas - 30/10/2026",
+      "time": "18:55",
+      "date": "2026-10-30",
+      "videoId": "ipIEHqBXYoc",
+      "thumb": "https://i.ytimg.com/vi/ipIEHqBXYoc/maxresdefault.jpg"
+    },
+    {
+      "name": "Inteligência Ltda",
+      "subtitle": "A CORRIDA PELA I.A. MAIS PODEROSA: FÁBIO AKITA E ALVARO MACHADO - Inteligência Ltda. Podcast #1970",
+      "time": "19:00",
+      "date": "2026-10-30",
+      "videoId": "Y-uuW4LUvTk",
+      "thumb": "https://i.ytimg.com/vi/Y-uuW4LUvTk/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "RESENHA DO DINHEIRO - 30/10/2026 | CNN MONEY",
+      "time": "19:00",
+      "date": "2026-10-30",
+      "videoId": "4ujVnR34pjA",
+      "thumb": "https://i.ytimg.com/vi/4ujVnR34pjA/maxresdefault.jpg"
+    },
+    {
+      "name": "GCMAIS",
+      "subtitle": "Jornal da Cidade | 30/10/26 | Acompanhe as principais notícias do dia!",
+      "time": "19:15",
+      "date": "2026-10-30",
+      "videoId": "vLN6gAqUO0I",
+      "thumb": "https://i.ytimg.com/vi/vLN6gAqUO0I/maxresdefault.jpg"
     },
     {
       "name": "Band Jornalismo",
@@ -554,20 +402,124 @@
       "thumb": "https://i.ytimg.com/vi/KP6kmcbUiow/maxresdefault.jpg"
     },
     {
-      "name": "Band Jornalismo",
-      "subtitle": "[AO VIVO] JORNAL DA NOITE - 29/10/2026",
-      "time": "23:59",
-      "date": "2026-10-29",
-      "videoId": "ssuD7BaMcWA",
-      "thumb": "https://i.ytimg.com/vi/ssuD7BaMcWA/maxresdefault.jpg"
+      "name": "Record News",
+      "subtitle": "Elas com a Bola - 30/10/2026",
+      "time": "19:40",
+      "date": "2026-10-30",
+      "videoId": "wfTmjxQW4ko",
+      "thumb": "https://i.ytimg.com/vi/wfTmjxQW4ko/maxresdefault.jpg"
+    },
+    {
+      "name": "Jornal da Record",
+      "subtitle": "Jornal da Record 30/10/2026",
+      "time": "19:45",
+      "date": "2026-10-30",
+      "videoId": "c1y7M0yH0kM",
+      "thumb": "https://i.ytimg.com/vi/c1y7M0yH0kM/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "NÚMEROS FALAM ENTREVISTA FELIPE MARQUES, CFO DA BOA SAFRA - 30/10/2026 | CNN MONEY",
+      "time": "19:45",
+      "date": "2026-10-30",
+      "videoId": "HmVeDFV0MFU",
+      "thumb": "https://i.ytimg.com/vi/HmVeDFV0MFU/maxresdefault.jpg"
+    },
+    {
+      "name": "Litoral News",
+      "subtitle": "CORINTHIANS X MIRASSOL AO VIVO COM IMAGEM NO PREMIERE AO VIVO | CORINTHIANS AO VIVO COM IMAGEM",
+      "time": "19:50",
+      "date": "2026-10-30",
+      "videoId": "rCj0wAXsm4c",
+      "thumb": "https://i.ytimg.com/vi/rCj0wAXsm4c/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil",
+      "subtitle": "AO VIVO: CNN PRIME TIME - 30/10/2026",
+      "time": "20:00",
+      "date": "2026-10-30",
+      "videoId": "guZsamSjICw",
+      "thumb": "https://i.ytimg.com/vi/guZsamSjICw/maxresdefault.jpg"
+    },
+    {
+      "name": "Jovem Pan News",
+      "subtitle": "JORNAL JOVEM PAN - 30/10/26",
+      "time": "20:15",
+      "date": "2026-10-30",
+      "videoId": "JdiFg-Y0jn4",
+      "thumb": "https://i.ytimg.com/vi/JdiFg-Y0jn4/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "AO VIVO: CNN MONEY - 30/10/2026",
+      "time": "20:15",
+      "date": "2026-10-30",
+      "videoId": "wna6EJeF_dY",
+      "thumb": "https://i.ytimg.com/vi/wna6EJeF_dY/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "NEWS NOITE | 30/10/2026",
+      "time": "20:30",
+      "date": "2026-10-30",
+      "videoId": "ES5ypZSTiDI",
+      "thumb": "https://i.ytimg.com/vi/ES5ypZSTiDI/maxresdefault.jpg"
+    },
+    {
+      "name": "Revista Oeste",
+      "subtitle": "DE LESTE A OESTE, COM ANA PAULA HENKEL - 30/10/2026 | COMO NASCEM AS DITADURAS",
+      "time": "20:30",
+      "date": "2026-10-30",
+      "videoId": "L-SVgmT6wUQ",
+      "thumb": "https://i.ytimg.com/vi/L-SVgmT6wUQ/maxresdefault.jpg"
+    },
+    {
+      "name": "Record News",
+      "subtitle": "Jornal da Record News - 30/10/2026",
+      "time": "20:55",
+      "date": "2026-10-30",
+      "videoId": "NTW6aTXOV6w",
+      "thumb": "https://i.ytimg.com/vi/NTW6aTXOV6w/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil",
+      "subtitle": "AO VIVO: WW - 30/10/2026",
+      "time": "22:00",
+      "date": "2026-10-30",
+      "videoId": "V-Cq2-S4AAI",
+      "thumb": "https://i.ytimg.com/vi/V-Cq2-S4AAI/maxresdefault.jpg"
+    },
+    {
+      "name": "Record News",
+      "subtitle": "News das 10 - 30/10/2026",
+      "time": "22:05",
+      "date": "2026-10-30",
+      "videoId": "wW0mNEJYEPE",
+      "thumb": "https://i.ytimg.com/vi/wW0mNEJYEPE/maxresdefault.jpg"
+    },
+    {
+      "name": "Discovery Brasil",
+      "subtitle": "MARATONA - O Melhor de Ed Stafford",
+      "time": "18:00",
+      "date": "2026-10-31",
+      "videoId": "TeGC3c4xszQ",
+      "thumb": "https://i.ytimg.com/vi/TeGC3c4xszQ/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "JORNAL DO SBT NEWS | 31/10/2026",
+      "time": "19:00",
+      "date": "2026-10-31",
+      "videoId": "bM6h4zYaWdg",
+      "thumb": "https://i.ytimg.com/vi/bM6h4zYaWdg/maxresdefault.jpg"
     },
     {
       "name": "Band Jornalismo",
-      "subtitle": "[AO VIVO] JORNAL DA BAND - 29/10/2026",
+      "subtitle": "[AO VIVO] JORNAL DA BAND - 31/10/2026",
       "time": "19:19",
-      "date": "2026-10-29",
-      "videoId": "elTdhyTLvDU",
-      "thumb": "https://i.ytimg.com/vi/elTdhyTLvDU/maxresdefault.jpg"
+      "date": "2026-10-31",
+      "videoId": "tg2YRP81ubw",
+      "thumb": "https://i.ytimg.com/vi/tg2YRP81ubw/maxresdefault.jpg"
     },
     {
       "name": "Revista Oeste",
@@ -578,44 +530,124 @@
       "thumb": "https://i.ytimg.com/vi/TqYQkdezbwY/maxresdefault.jpg"
     },
     {
-      "name": "Revista Oeste",
-      "subtitle": "ARENA OESTE #73 | LULA 4 E UM BRASIL DE OPOSIÇÃO",
-      "time": "20:30",
-      "date": "2026-10-29",
-      "videoId": "psg1xAHg3TA",
-      "thumb": "https://i.ytimg.com/vi/psg1xAHg3TA/maxresdefault.jpg"
+      "name": "SBT News",
+      "subtitle": "SBT NEWS AO VIVO",
+      "time": "21:00",
+      "date": "2026-10-31",
+      "videoId": "6cmbQaZ4En0",
+      "thumb": "https://i.ytimg.com/vi/6cmbQaZ4En0/maxresdefault.jpg"
+    },
+    {
+      "name": "Discovery Brasil",
+      "subtitle": "MARATONA - O Melhor de Largados e Pelados (Spin-Offs)",
+      "time": "22:00",
+      "date": "2026-10-31",
+      "videoId": "t_t3kY_iEP0",
+      "thumb": "https://i.ytimg.com/vi/t_t3kY_iEP0/maxresdefault.jpg"
+    },
+    {
+      "name": "Band Jornalismo",
+      "subtitle": "HISTÓRIAS INSPIRADORAS - DOCUMENTO BAND",
+      "time": "22:29",
+      "date": "2026-10-31",
+      "videoId": "0vhQ6ZSBRug",
+      "thumb": "https://i.ytimg.com/vi/0vhQ6ZSBRug/maxresdefault.jpg"
     },
     {
       "name": "Revista Oeste",
-      "subtitle": "JORNAL DA OESTE SEGUNDA EDIÇÃO, COM GEISIANE FREITAS | 29/10/2026",
-      "time": "23:54",
-      "date": "2026-10-29",
-      "videoId": "hh2NKHAERsM",
-      "thumb": "https://i.ytimg.com/vi/hh2NKHAERsM/maxresdefault.jpg"
+      "subtitle": "OESTE CULTURA: O MELHOR DO HALLOWEEN - (31/10/26)",
+      "time": "22:30",
+      "date": "2026-10-31",
+      "videoId": "3SN3mjAv8vo",
+      "thumb": "https://i.ytimg.com/vi/3SN3mjAv8vo/maxresdefault.jpg"
     },
     {
-      "name": "GCMAIS",
-      "subtitle": "Jornal da Cidade | 29/10/26 | Acompanhe as principais notícias do dia!",
+      "name": "SBT News",
+      "subtitle": "NEWS DOMINGO (2ª EDIÇÃO) | 01/11/2026",
+      "time": "18:00",
+      "date": "2026-11-01",
+      "videoId": "ujAOvXN5mYU",
+      "thumb": "https://i.ytimg.com/vi/ujAOvXN5mYU/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil",
+      "subtitle": "AO VIVO: Salvador: História, cultura e seus personagens | CNN Viagem & Gastronomia",
+      "time": "18:15",
+      "date": "2026-11-01",
+      "videoId": "vJSmDNwKq8s",
+      "thumb": "https://i.ytimg.com/vi/vJSmDNwKq8s/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil",
+      "subtitle": "AO VIVO: CNN PRIME TIME - Edição de domingo - 01/11/2026",
+      "time": "19:00",
+      "date": "2026-11-01",
+      "videoId": "0BO8Q8Eptqg",
+      "thumb": "https://i.ytimg.com/vi/0BO8Q8Eptqg/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil",
+      "subtitle": "AO VIVO: É NEGÓCIO, COM WILSON BARCELLOS, CEO DA AZIMUT BRASIL - 01/11/2026",
+      "time": "19:45",
+      "date": "2026-11-01",
+      "videoId": "iP5-XqAfvmA",
+      "thumb": "https://i.ytimg.com/vi/iP5-XqAfvmA/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "SBT NEWS AO VIVO",
+      "time": "20:00",
+      "date": "2026-11-01",
+      "videoId": "R6yf-Dm2cP8",
+      "thumb": "https://i.ytimg.com/vi/R6yf-Dm2cP8/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil",
+      "subtitle": "AO VIVO: PARA ONDE VAI O BRASIL APÓS AS ELEIÇÕES? | WW ESPECIAL - 01/11/2026",
+      "time": "21:00",
+      "date": "2026-11-01",
+      "videoId": "6U9tcx9bo9k",
+      "thumb": "https://i.ytimg.com/vi/6U9tcx9bo9k/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "NEWS NOITE | 02/11/2026",
+      "time": "19:30",
+      "date": "2026-11-02",
+      "videoId": "y3eartxer00",
+      "thumb": "https://i.ytimg.com/vi/y3eartxer00/maxresdefault.jpg"
+    },
+    {
+      "name": "Revista Oeste",
+      "subtitle": "CONVERSA COM FERNANDO SCHÜLER - CIENTISTA POLÍTICO E PROFESSOR DO INSPER",
+      "time": "19:30",
+      "date": "2026-11-03",
+      "videoId": "LS07uQUvXv0",
+      "thumb": "https://i.ytimg.com/vi/LS07uQUvXv0/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil",
+      "subtitle": "AO VIVO: AMÉRICA DECIDE ESPECIAL - 03/11/2026",
+      "time": "22:00",
+      "date": "2026-11-03",
+      "videoId": "83d-7fjHE2g",
+      "thumb": "https://i.ytimg.com/vi/83d-7fjHE2g/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "AO VIVO |  A ECONOMIA DA TRANSIÇÃO: DA AGENDA AO NEGÓCIO |  CNN TALKS",
       "time": "19:15",
-      "date": "2026-10-29",
-      "videoId": "3gIRUGXP2Cs",
-      "thumb": "https://i.ytimg.com/vi/3gIRUGXP2Cs/maxresdefault.jpg"
+      "date": "2026-11-05",
+      "videoId": "__HpslHheIw",
+      "thumb": "https://i.ytimg.com/vi/__HpslHheIw/maxresdefault.jpg"
     },
     {
-      "name": "GCMAIS",
-      "subtitle": "Cidade Alerta CE | 29/10/26 | Acompanhe as principais notícias do dia!",
-      "time": "18:00",
-      "date": "2026-10-29",
-      "videoId": "y1DmVn5VNEo",
-      "thumb": "https://i.ytimg.com/vi/y1DmVn5VNEo/maxresdefault.jpg"
-    },
-    {
-      "name": "Os Pingos nos Is",
-      "subtitle": "OS PINGOS NOS IS - 29/10/26",
-      "time": "18:00",
-      "date": "2026-10-29",
-      "videoId": "fX31wwNIFm4",
-      "thumb": "https://i.ytimg.com/vi/fX31wwNIFm4/maxresdefault.jpg"
+      "name": "CNN Brasil",
+      "subtitle": "ENEM AO VIVO: CORREÇÃO EXTRAOFICIAL DO PRIMEIRO DIA DE PROVA; ASSISTA EM TEMPO REAL - 08/10/26",
+      "time": "18:50",
+      "date": "2026-11-08",
+      "videoId": "U2L20q4kV7g",
+      "thumb": "https://i.ytimg.com/vi/U2L20q4kV7g/maxresdefault.jpg"
     }
   ]
 }
