@@ -73,14 +73,7 @@
       { "name": "Xand Avião", "videoId": "OjFB6uv8J5U", "thumb": "https://yt3.googleusercontent.com/XkOQOPHT22h2URowYz0GdSZLlZhxnw8u3kKwDLzfm5vyWgr9pOjeTqG-ftKCEVV8zAqz8Gl38Q=s120-c-k-c0x00ffffff-no-rj" }
     ],
     "piseiro": [],
-    "eletronica": [
-      { "name": "Fatboy Slim", "videoId": "otFa1q3y63s", "thumb": "https://yt3.googleusercontent.com/4xkplEv8s60zGjN7bXTEVVetX9adCvEWXiHW7PMgsP7Vro3XQATU6YhoW_bKf_xZPfDbGB7twQ=s160-c-k-c0x00ffffff-no-rj" },
-      { "name": "Parcels", "videoId": "d7Ua-DRAYz8", "thumb": "https://yt3.googleusercontent.com/eU4tqvUAgIVg9hxwvoXi4d3rEm5hTMcoAnM9QEIAYcnad3QZCJ3vavDjr2-SnbKfg4kag6YICg=s160-c-k-c0x00ffffff-no-rj" },
-      { "name": "Tomorrowland Music", "videoId": "QAYoV59byq0", "thumb": "https://yt3.googleusercontent.com/K3xsYB9C9j1JnhC-YSIqek1rVnmQI5aUmxOXZNbK0ySsMr4ZCZhojGWihO614spRzHV8akxsoP0=s160-c-k-c0x00ffffff-no-rj" },
-      { "name": "A State Of Trance", "videoId": "NGsjwNsXE0w", "thumb": "https://yt3.googleusercontent.com/1xT2Ct8u5EfpFQNs_zuQb5g1xtNSlwhzchqnWjCPb59-DXulmdK8ABYwE8_49xDi1kGitBWdPIM=s160-c-k-c0x00ffffff-no-rj" },
-      { "name": "FLUXO 3.0", "videoId": "SuZUeMBCasI", "thumb": "https://yt3.googleusercontent.com/Uhom7mT0i3PSJDfI3zZiSly_ZIqQbT4ooGXsXw2hOmwqvhf848bAlYDdWAPBl84ZDcpgJhANUos=s160-c-k-c0x00ffffff-no-rj" },
-      { "name": "STARSET RADIO", "videoId": "qzu-1fr-KSU", "thumb": "https://yt3.googleusercontent.com/az4PomReT6JCuia75WEsb2XoL79kcHZKm6YciEtLjUEBTc_aXRPno6E-7n305VOKTiAQmQufd6o=s160-c-k-c0x00ffffff-no-rj" } 
-    ],
+    "eletronica": [],
     "entreterimento": [],
     "pagode": [
       { "name": "Grupo Menos é Mais", "videoId": "iXSbnL56SWs", "thumb": "https://yt3.googleusercontent.com/JUR8rAvQmpYxUiWRQwFcaGeoExKTQpOHMEyTiMGqH4XQS7GPsqKd940j2EHKS4Vz-pbg9hhTSdM=s120-c-k-c0x00ffffff-no-rj" }
@@ -92,8 +85,6 @@
       { "name": "Henrique & Juliano", "videoId": "06G-Nvozuj4", "thumb": "https://yt3.googleusercontent.com/nKH8O4Arv6kIKDNKwdV3MDVkJmwAAymwWjBc6gre6TmAAgrFR0uiSs7tvI1x7QmeIuhI8YCRECM=s120-c-k-c0x00ffffff-no-rj" },
       { "name": "Marília Mendonça", "videoId": "CebT71NMtxI", "thumb": "https://yt3.googleusercontent.com/aDkvN_VbnUmHXLfDjWAImkusedp1ko2v14DmdGYdkHQBLysYv26FzzxKA25n6YWWusNhpUKtBg=s120-c-k-c0x00ffffff-no-rj" },
       { "name": "Gusttavo Lima", "videoId": "_idnfGZdjmo", "thumb": "https://yt3.googleusercontent.com/HmZtOZ4RQolEYj-oQti1vU8S3_BdTRrJvaTkP0TmFIXf4WO0pQBLBjKpoGf-j2rJIFRomTIL=s120-c-k-c0x00ffffff-no-rj" }
-   
-    
     ],
     "rock": [],
     "brega": [
