@@ -23,7 +23,7 @@
       "duracao": 20000
     },
     {
-      "cor1": [255, 0, 0],
+      "cor1": [139, 0, 0],
       "cor2": [255, 255, 255],
       "titulo": "Madcal<br>Home Center",
       "servicos": ["Construir", "Reformar", "Ferramentas", "Utensílios do lar"],
