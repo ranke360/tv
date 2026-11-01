@@ -97,51 +97,27 @@
   "esporte": [
     {
       "name": "Xsports",
-      "subtitle": "JOINVILLE X ACBF | FINAL COPA LNF | AO VIVO E COM IMAGENS",
-      "time": "18:45",
-      "date": "2026-10-31",
-      "videoId": "aOOQf9G3US8",
-      "thumb": "https://i.ytimg.com/vi/aOOQf9G3US8/maxresdefault.jpg"
+      "subtitle": "SEATTLE REIGN X ORLANDO PRIDE | CAMPEONATO AMERICANO FEMININO | AO VIVO E COM IMAGENS",
+      "time": "18:00",
+      "date": "2026-11-01",
+      "videoId": "5spy--z_GR4",
+      "thumb": "https://i.ytimg.com/vi/5spy--z_GR4/maxresdefault.jpg"
     },
     {
       "name": "ESPN Brasil",
-      "subtitle": "AO VIVO: MILAN X INTER DE MILÃO | ESTÊVÃO VAI BEM COMO TITULAR | PREMIER LEAGUE | MUNDO F",
-      "time": "18:45",
-      "date": "2026-10-31",
-      "videoId": "f6gZnBzQ6Wk",
-      "thumb": "https://i.ytimg.com/vi/f6gZnBzQ6Wk/maxresdefault.jpg"
+      "subtitle": "RIVER PLATE X PALMEIRAS AO VIVO: FINAL DA MESSI CUP DE GRAÇA E COM IMAGENS | ESPN",
+      "time": "18:00",
+      "date": "2026-11-01",
+      "videoId": "Y9NEY4o2Vec",
+      "thumb": "https://i.ytimg.com/vi/Y9NEY4o2Vec/maxresdefault.jpg"
     },
     {
-      "name": "ge tv",
-      "subtitle": "AO VIVO: NÁUTICO X AVAÍ | BRASILEIRÃO SÉRIE B 2026 | ge tv",
-      "time": "19:15",
-      "date": "2026-10-31",
-      "videoId": "zBtl2wTMQK4",
-      "thumb": "https://i.ytimg.com/vi/zBtl2wTMQK4/maxresdefault.jpg"
-    },
-    {
-      "name": "N Sports",
-      "subtitle": "AO VIVO E COM IMAGENS | CORINTHIANS X CRUZEIRO | FINAL | LIBERTADORES FEMININA 2026",
-      "time": "20:30",
-      "date": "2026-10-31",
-      "videoId": "p5rhzOkKCR4",
-      "thumb": "https://i.ytimg.com/vi/p5rhzOkKCR4/maxresdefault.jpg"
-    },
-    {
-      "name": "Xsports",
-      "subtitle": "CORINTHIANS X CRUZEIRO | FINAL LIBERTADORES FEMININA 2026 | AO VIVO E COM IMAGENS",
-      "time": "20:45",
-      "date": "2026-10-31",
-      "videoId": "1UDRYD3XPlg",
-      "thumb": "https://i.ytimg.com/vi/1UDRYD3XPlg/maxresdefault.jpg"
-    },
-    {
-      "name": "UOL Esporte",
-      "subtitle": "CORINTHIANS X CRUZEIRO | FINAL DA LIBERTADORES FEMININA | AO VIVO E COM IMAGENS",
-      "time": "21:00",
-      "date": "2026-10-31",
-      "videoId": "6wpGTCUhOGM",
-      "thumb": "https://i.ytimg.com/vi/6wpGTCUhOGM/maxresdefault.jpg"
+      "name": "TNT Sports Brasil",
+      "subtitle": "AO VIVO: NEW ENGLAND REVOLUTION X INTER MIAMI | MESSI EM CAMPO NA MLS COM IMAGENS",
+      "time": "19:30",
+      "date": "2026-11-01",
+      "videoId": "rpomdycLyaY",
+      "thumb": "https://i.ytimg.com/vi/rpomdycLyaY/maxresdefault.jpg"
     },
     {
       "name": "CNN Esportes",
@@ -168,6 +144,30 @@
       "thumb": "https://i.ytimg.com/vi/jp008q91gUI/maxresdefault.jpg"
     },
     {
+      "name": "UOL Esporte",
+      "subtitle": "FIM DE PAPO AO VIVO | 2 DE NOVEMBRO",
+      "time": "17:00",
+      "date": "2026-11-02",
+      "videoId": "6do-weWZGsc",
+      "thumb": "https://i.ytimg.com/vi/6do-weWZGsc/maxresdefault.jpg"
+    },
+    {
+      "name": "SportyNet",
+      "subtitle": "ATLHETIC X CEARÁ: AO VIVO E COM IMAGENS | RODADA 36 | SÉRIE B",
+      "time": "17:00",
+      "date": "2026-11-02",
+      "videoId": "V93u0Vos_Aw",
+      "thumb": "https://i.ytimg.com/vi/V93u0Vos_Aw/maxresdefault.jpg"
+    },
+    {
+      "name": "ge tv",
+      "subtitle": "AO VIVO: SESI BAURU X PRAIA CLUBE | SUPERLIGA MASCULINA DE VÔLEI 2026/27 | ge tv",
+      "time": "17:15",
+      "date": "2026-11-02",
+      "videoId": "HMCxHb_8nYc",
+      "thumb": "https://i.ytimg.com/vi/HMCxHb_8nYc/maxresdefault.jpg"
+    },
+    {
       "name": "ESPN Brasil",
       "subtitle": "GOIÁS X CRB AO VIVO: ABRE O JOGO DA SÉRIE B | B DE BOLA 52",
       "time": "18:00",
@@ -182,6 +182,22 @@
       "date": "2026-11-02",
       "videoId": "oD9qc6HTIPQ",
       "thumb": "https://i.ytimg.com/vi/oD9qc6HTIPQ/maxresdefault.jpg"
+    },
+    {
+      "name": "Esporte na Band",
+      "subtitle": "[AO VIVO] APITO FINAL - 02/11/2026",
+      "time": "21:19",
+      "date": "2026-11-02",
+      "videoId": "v9uZmuqgCj4",
+      "thumb": "https://i.ytimg.com/vi/v9uZmuqgCj4/maxresdefault.jpg"
+    },
+    {
+      "name": "ge tv",
+      "subtitle": "AO VIVO: PAULISTANO BAURERI X SESI BAURU | SUPERLIGA FEMININA DE VÔLEI 2026/27 | ge tv",
+      "time": "17:00",
+      "date": "2026-11-03",
+      "videoId": "HuL_-edonxU",
+      "thumb": "https://i.ytimg.com/vi/HuL_-edonxU/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
@@ -208,6 +224,14 @@
       "thumb": "https://i.ytimg.com/vi/TEx8KlYjDAk/maxresdefault.jpg"
     },
     {
+      "name": "ge tv",
+      "subtitle": "AO VIVO: LONDRINA X FLAMENGO | SUPERLIGA FEMININA DE VÔLEI 2026/27 | ge tv",
+      "time": "17:00",
+      "date": "2026-11-06",
+      "videoId": "YyM2Kl-Txvw",
+      "thumb": "https://i.ytimg.com/vi/YyM2Kl-Txvw/maxresdefault.jpg"
+    },
+    {
       "name": "SportyNet",
       "subtitle": "OPERÁRIO X SPORT: AO VIVO E COM IMAGENS | RODADA 37 | SÉRIE B",
       "time": "18:30",
@@ -225,6 +249,14 @@
     },
     {
       "name": "SportyNet",
+      "subtitle": "CEARÁ X AMÉRICA-MG: AO VIVO E COM IMAGENS | RODADA 37 | SÉRIE B",
+      "time": "17:45",
+      "date": "2026-11-08",
+      "videoId": "5-JkeP-ql30",
+      "thumb": "https://i.ytimg.com/vi/5-JkeP-ql30/maxresdefault.jpg"
+    },
+    {
+      "name": "SportyNet",
       "subtitle": "SANTOS LAGUNA X LEÓN: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 17 - APERTURA | CAMPEONATO MEXICANO",
       "time": "19:00",
       "date": "2026-11-21",
@@ -233,70 +265,6 @@
     }
   ],
   "noticia": [
-    {
-      "name": "SBT News",
-      "subtitle": "JORNAL DO SBT NEWS | 31/10/2026",
-      "time": "19:00",
-      "date": "2026-10-31",
-      "videoId": "bM6h4zYaWdg",
-      "thumb": "https://i.ytimg.com/vi/bM6h4zYaWdg/maxresdefault.jpg"
-    },
-    {
-      "name": "Jovem Pan News",
-      "subtitle": "JORNAL JOVEM PAN - 31/10/26",
-      "time": "19:00",
-      "date": "2026-10-31",
-      "videoId": "r_rzYapYzNg",
-      "thumb": "https://i.ytimg.com/vi/r_rzYapYzNg/maxresdefault.jpg"
-    },
-    {
-      "name": "Band Jornalismo",
-      "subtitle": "[AO VIVO] JORNAL DA BAND - 31/10/2026",
-      "time": "19:19",
-      "date": "2026-10-31",
-      "videoId": "tg2YRP81ubw",
-      "thumb": "https://i.ytimg.com/vi/tg2YRP81ubw/maxresdefault.jpg"
-    },
-    {
-      "name": "Jornal da Record",
-      "subtitle": "Jornal da Record | Edição de Sábado 31/10/2026",
-      "time": "19:45",
-      "date": "2026-10-31",
-      "videoId": "ler79Vdekp8",
-      "thumb": "https://i.ytimg.com/vi/ler79Vdekp8/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: CNN PRIME TIME - Edição de sábado - 31/10/2026",
-      "time": "20:00",
-      "date": "2026-10-31",
-      "videoId": "vfUWX7s1ATw",
-      "thumb": "https://i.ytimg.com/vi/vfUWX7s1ATw/maxresdefault.jpg"
-    },
-    {
-      "name": "Revista Oeste",
-      "subtitle": "OUTRA COISA, COM GUILHERME FIUZA - 31/10/2026",
-      "time": "20:00",
-      "date": "2026-10-31",
-      "videoId": "TqYQkdezbwY",
-      "thumb": "https://i.ytimg.com/vi/TqYQkdezbwY/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: FORA DA ORDEM - 31/10/2026",
-      "time": "21:00",
-      "date": "2026-10-31",
-      "videoId": "CADkvWQzks4",
-      "thumb": "https://i.ytimg.com/vi/CADkvWQzks4/maxresdefault.jpg"
-    },
-    {
-      "name": "SBT News",
-      "subtitle": "SBT NEWS AO VIVO",
-      "time": "21:00",
-      "date": "2026-10-31",
-      "videoId": "6cmbQaZ4En0",
-      "thumb": "https://i.ytimg.com/vi/6cmbQaZ4En0/maxresdefault.jpg"
-    },
     {
       "name": "CNN Brasil",
       "subtitle": "AO VIVO: Salvador: História, cultura e seus personagens | CNN Viagem & Gastronomia",
@@ -338,6 +306,14 @@
       "thumb": "https://i.ytimg.com/vi/bQugdreausQ/maxresdefault.jpg"
     },
     {
+      "name": "CNN Brasil",
+      "subtitle": "AO VIVO: CNN AGORA NOITE - 01/11/2026",
+      "time": "17:15",
+      "date": "2026-11-01",
+      "videoId": "JJ1_ZzilM4E",
+      "thumb": "https://i.ytimg.com/vi/JJ1_ZzilM4E/maxresdefault.jpg"
+    },
+    {
       "name": "SBT News",
       "subtitle": "NEWS DOMINGO (2ª EDIÇÃO) | 01/11/2026",
       "time": "18:00",
@@ -352,6 +328,14 @@
       "date": "2026-11-01",
       "videoId": "vJSmDNwKq8s",
       "thumb": "https://i.ytimg.com/vi/vJSmDNwKq8s/maxresdefault.jpg"
+    },
+    {
+      "name": "Jovem Pan News",
+      "subtitle": "FAST NEWS - 3° EDIÇÃO - 01/11/26",
+      "time": "18:30",
+      "date": "2026-11-01",
+      "videoId": "3_zI6KLAlVE",
+      "thumb": "https://i.ytimg.com/vi/3_zI6KLAlVE/maxresdefault.jpg"
     },
     {
       "name": "Band Jornalismo",
@@ -392,6 +376,22 @@
       "date": "2026-11-01",
       "videoId": "6U9tcx9bo9k",
       "thumb": "https://i.ytimg.com/vi/6U9tcx9bo9k/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT",
+      "subtitle": "🔴 MISSÃO TELETON | Pepita e Beto Marden (02/11/26)",
+      "time": "17:00",
+      "date": "2026-11-02",
+      "videoId": "3TeqzK12sI8",
+      "thumb": "https://i.ytimg.com/vi/3TeqzK12sI8/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "JORNAL DO SBT NEWS | 02/11/2026",
+      "time": "17:30",
+      "date": "2026-11-02",
+      "videoId": "4-QEZu77pzM",
+      "thumb": "https://i.ytimg.com/vi/4-QEZu77pzM/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil Money",
