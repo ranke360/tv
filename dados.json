@@ -96,52 +96,92 @@
     ],
   "esporte": [
     {
-      "name": "ESPN Brasil",
-      "subtitle": "RIVER PLATE X PALMEIRAS AO VIVO: FINAL DA MESSI CUP DE GRAÇA E COM IMAGENS | ESPN",
-      "time": "20:00",
-      "date": "2026-11-01",
-      "videoId": "Y9NEY4o2Vec",
-      "thumb": "https://i.ytimg.com/vi/Y9NEY4o2Vec/maxresdefault.jpg"
+      "name": "Esporte na Band",
+      "subtitle": "TÍTULO DE ANTONELLI NO MÉXICO E TRETA DA FERRARI: COLA NO GRID ANALISA | COLA NO GRID - 02/11/2026",
+      "time": "13:00",
+      "date": "2026-11-02",
+      "videoId": "4ifVXU0T8Ek",
+      "thumb": "https://i.ytimg.com/vi/4ifVXU0T8Ek/maxresdefault.jpg"
     },
     {
-      "name": "TNT Sports Brasil",
-      "subtitle": "AO VIVO: NEW ENGLAND REVOLUTION X INTER MIAMI | MESSI EM CAMPO NA MLS COM IMAGENS",
-      "time": "20:30",
-      "date": "2026-11-01",
-      "videoId": "rpomdycLyaY",
-      "thumb": "https://i.ytimg.com/vi/rpomdycLyaY/maxresdefault.jpg"
+      "name": "Time Brasil TV",
+      "subtitle": "AO VIVO: JOGOS DA JUVENTUDE CAIXA 2026 | VÔLEI DE PRAIA - 02/11",
+      "time": "13:00",
+      "date": "2026-11-02",
+      "videoId": "Ev-eg-RYKMs",
+      "thumb": "https://i.ytimg.com/vi/Ev-eg-RYKMs/maxresdefault.jpg"
     },
     {
-      "name": "ESPN Brasil",
-      "subtitle": "PÓS-JOGO: PALMEIRAS VENCE VASCO NA COPA DO BRASIL | GRÊMIO X ATLÉTICO-MG | LINHA DE PASSE",
-      "time": "20:30",
-      "date": "2026-11-01",
-      "videoId": "B9h-Uu-mb54",
-      "thumb": "https://i.ytimg.com/vi/B9h-Uu-mb54/maxresdefault.jpg"
+      "name": "UOL Esporte",
+      "subtitle": "DE PRIMEIRA AO VIVO | 02 DE NOVEMBRO",
+      "time": "13:30",
+      "date": "2026-11-02",
+      "videoId": "FLPKNzRexUk",
+      "thumb": "https://i.ytimg.com/vi/FLPKNzRexUk/maxresdefault.jpg"
     },
     {
-      "name": "CNN Esportes",
-      "subtitle": "AO VIVO: Entrevista com Rafinha Alcântara, ex-Barcelona e PSG, e empresário | ESPORTES S/A",
-      "time": "21:15",
-      "date": "2026-11-01",
-      "videoId": "N3lMWsfWiJ0",
-      "thumb": "https://i.ytimg.com/vi/N3lMWsfWiJ0/maxresdefault.jpg"
+      "name": "Time Brasil TV",
+      "subtitle": "AO VIVO: JOGOS DA JUVENTUDE CAIXA 2026 | FUTSAL - 02/11",
+      "time": "13:30",
+      "date": "2026-11-02",
+      "videoId": "MD-LDETlKh0",
+      "thumb": "https://i.ytimg.com/vi/MD-LDETlKh0/maxresdefault.jpg"
     },
     {
-      "name": "ge tv",
-      "subtitle": "PHILADELPHIA EAGLES X WASHINGTON COMMANDERS | AQUECIMENTO AO VIVO | NFL | #live | sportv",
-      "time": "21:30",
-      "date": "2026-11-01",
-      "videoId": "YnlvVrNFx5c",
-      "thumb": "https://i.ytimg.com/vi/YnlvVrNFx5c/maxresdefault.jpg"
+      "name": "Metrópoles Esportes",
+      "subtitle": "AMÉRICA-PE x NÁUTICO - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
+      "time": "13:45",
+      "date": "2026-11-02",
+      "videoId": "uhfioIQ35ak",
+      "thumb": "https://i.ytimg.com/vi/uhfioIQ35ak/maxresdefault.jpg"
+    },
+    {
+      "name": "Metrópoles Esportes",
+      "subtitle": "VITÓRIA x BRASILIENSE - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
+      "time": "13:45",
+      "date": "2026-11-02",
+      "videoId": "n_seozpH97c",
+      "thumb": "https://i.ytimg.com/vi/n_seozpH97c/maxresdefault.jpg"
+    },
+    {
+      "name": "Metrópoles Esportes",
+      "subtitle": "IPOJUCA x BOTAFOGO - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
+      "time": "13:45",
+      "date": "2026-11-02",
+      "videoId": "Du9N1fm6Ou0",
+      "thumb": "https://i.ytimg.com/vi/Du9N1fm6Ou0/maxresdefault.jpg"
     },
     {
       "name": "SportyNet",
-      "subtitle": "CRUZ AZUL X LEON: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 15 - APERTURA | CAMPEONATO MEXICANO",
-      "time": "22:00",
-      "date": "2026-11-01",
-      "videoId": "jp008q91gUI",
-      "thumb": "https://i.ytimg.com/vi/jp008q91gUI/maxresdefault.jpg"
+      "subtitle": "SASSUOLO X FIORENTINA: AO VIVO E COM IMAGENS | RODADA 10 | SERIE A",
+      "time": "14:30",
+      "date": "2026-11-02",
+      "videoId": "vKaFcaeW700",
+      "thumb": "https://i.ytimg.com/vi/vKaFcaeW700/maxresdefault.jpg"
+    },
+    {
+      "name": "Metrópoles Esportes",
+      "subtitle": "ATLÉTICO CEARENSE x VILA REAL - TAÇA FARES LOPES 2026 - AO VIVO - 02.11.26",
+      "time": "14:45",
+      "date": "2026-11-02",
+      "videoId": "KcdKunNqv_M",
+      "thumb": "https://i.ytimg.com/vi/KcdKunNqv_M/maxresdefault.jpg"
+    },
+    {
+      "name": "Metrópoles Esportes",
+      "subtitle": "ATLÉTICO-MG x CRUZEIRO-PB - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
+      "time": "15:45",
+      "date": "2026-11-02",
+      "videoId": "dD57T-pLO34",
+      "thumb": "https://i.ytimg.com/vi/dD57T-pLO34/maxresdefault.jpg"
+    },
+    {
+      "name": "Metrópoles Esportes",
+      "subtitle": "PALMEIRAS x CS NORTE AMÉRICA - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
+      "time": "15:45",
+      "date": "2026-11-02",
+      "videoId": "S6YHwlHqt_s",
+      "thumb": "https://i.ytimg.com/vi/S6YHwlHqt_s/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
@@ -209,11 +249,35 @@
     },
     {
       "name": "Esporte na Band",
-      "subtitle": "[AO VIVO] APITO FINAL DEBATE RODADA DO BRASILEIRÃO - 02/11/2026",
+      "subtitle": "[AO VIVO] BRAGANTINO X SANTOS E PALMEIRAS E GRÊMIO EM VANTAGEM NA COPA DO BRASIL - 02/11/2026",
       "time": "22:19",
       "date": "2026-11-02",
       "videoId": "v9uZmuqgCj4",
       "thumb": "https://i.ytimg.com/vi/v9uZmuqgCj4/maxresdefault.jpg"
+    },
+    {
+      "name": "UOL Esporte",
+      "subtitle": "DE PRIMEIRA AO VIVO | 3 DE NOVEMBRO",
+      "time": "13:30",
+      "date": "2026-11-03",
+      "videoId": "M2z4-lqW9RA",
+      "thumb": "https://i.ytimg.com/vi/M2z4-lqW9RA/maxresdefault.jpg"
+    },
+    {
+      "name": "Time Brasil TV",
+      "subtitle": "AO VIVO: JOGOS DA JUVENTUDE CAIXA 2026 | FUTSAL - 03/11",
+      "time": "14:45",
+      "date": "2026-11-03",
+      "videoId": "V2lNhsXP1Y8",
+      "thumb": "https://i.ytimg.com/vi/V2lNhsXP1Y8/maxresdefault.jpg"
+    },
+    {
+      "name": "TNT Sports Brasil",
+      "subtitle": "AO VIVO: MANCHESTER UNITED X ROMA | FASE DE LIGA | RODADA 4 | CHAMPIONS LEAGUE 2026/27",
+      "time": "15:45",
+      "date": "2026-11-03",
+      "videoId": "kkTcb6SpMo0",
+      "thumb": "https://i.ytimg.com/vi/kkTcb6SpMo0/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
@@ -232,6 +296,14 @@
       "thumb": "https://i.ytimg.com/vi/GIsYvH8BlIA/maxresdefault.jpg"
     },
     {
+      "name": "TNT Sports Brasil",
+      "subtitle": "AO VIVO: BORUSSIA DORTMUND X REAL BETIS | FASE DE LIGA | RODADA 4 | CHAMPIONS LEAGUE 2026/27",
+      "time": "15:45",
+      "date": "2026-11-04",
+      "videoId": "75aw5nZ_CpU",
+      "thumb": "https://i.ytimg.com/vi/75aw5nZ_CpU/maxresdefault.jpg"
+    },
+    {
       "name": "ge tv",
       "subtitle": "SÃO PAULO X CORINTHIANS | AO VIVO E COM IMAGENS | BRASILEIRÃO 2026 | ge tv",
       "time": "20:00",
@@ -240,12 +312,36 @@
       "thumb": "https://i.ytimg.com/vi/TzBl51tTBmU/maxresdefault.jpg"
     },
     {
+      "name": "Canal GOAT",
+      "subtitle": "AL QADSIAH X AL FAYHA | AO VIVO E COM IMAGENS | SAUDI PRO LEAGUE",
+      "time": "14:00",
+      "date": "2026-11-05",
+      "videoId": "2XaEAKlT05I",
+      "thumb": "https://i.ytimg.com/vi/2XaEAKlT05I/maxresdefault.jpg"
+    },
+    {
       "name": "ge tv",
       "subtitle": "AO VIVO: JACKSONVILLE JAGUARS X BALTIMORE RAVENS | NFL 2026/27 | ge tv",
       "time": "22:00",
       "date": "2026-11-05",
       "videoId": "TEx8KlYjDAk",
       "thumb": "https://i.ytimg.com/vi/TEx8KlYjDAk/maxresdefault.jpg"
+    },
+    {
+      "name": "Canal GOAT",
+      "subtitle": "AL ITTIHAD X NEOM | AO VIVO E COM IMAGENS | SAUDI PRO LEAGUE",
+      "time": "14:00",
+      "date": "2026-11-06",
+      "videoId": "RCUuMp9W35o",
+      "thumb": "https://i.ytimg.com/vi/RCUuMp9W35o/maxresdefault.jpg"
+    },
+    {
+      "name": "Canal GOAT",
+      "subtitle": "EINTRACHT BRAUNSCHWEIG X ENERGIE COTTBUS | AO VIVO E COM IMAGENS | BUNDESLIGA 2",
+      "time": "14:20",
+      "date": "2026-11-06",
+      "videoId": "ImumUwCT_mE",
+      "thumb": "https://i.ytimg.com/vi/ImumUwCT_mE/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
@@ -272,12 +368,28 @@
       "thumb": "https://i.ytimg.com/vi/FoyLpuVKKdc/maxresdefault.jpg"
     },
     {
+      "name": "ge tv",
+      "subtitle": "AO VIVO: VASCO X PALMEIRAS | COPA DO BRASIL | SEMIFINAL (VOLTA) | ge tv",
+      "time": "15:30",
+      "date": "2026-11-08",
+      "videoId": "iI_CDCgFJ1Y",
+      "thumb": "https://i.ytimg.com/vi/iI_CDCgFJ1Y/maxresdefault.jpg"
+    },
+    {
       "name": "SportyNet",
-      "subtitle": "UNAM PUMAS X AMÉRICA-MEX: AO VIVO, COM IMAGENS E EXCLUSIVO| RODADA 16 - APERTURA|CAMPEONATO MEXICANO",
-      "time": "23:45",
-      "date": "2026-11-07",
-      "videoId": "i-Fbrhfr9KI",
-      "thumb": "https://i.ytimg.com/vi/i-Fbrhfr9KI/maxresdefault.jpg"
+      "subtitle": "VILLAREAL X GETAFE: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 12",
+      "time": "16:30",
+      "date": "2026-11-08",
+      "videoId": "HE_EBoE6qkk",
+      "thumb": "https://i.ytimg.com/vi/HE_EBoE6qkk/maxresdefault.jpg"
+    },
+    {
+      "name": "SportyNet",
+      "subtitle": "FIORENTINA X JUVENTUS: AO VIVO E COM IMAGENS | RODADA 12 | SERIE A",
+      "time": "16:45",
+      "date": "2026-11-08",
+      "videoId": "ywRh4gIJSOM",
+      "thumb": "https://i.ytimg.com/vi/ywRh4gIJSOM/maxresdefault.jpg"
     },
     {
       "name": "SportyNet",
@@ -286,6 +398,14 @@
       "date": "2026-11-08",
       "videoId": "5-JkeP-ql30",
       "thumb": "https://i.ytimg.com/vi/5-JkeP-ql30/maxresdefault.jpg"
+    },
+    {
+      "name": "SportyNet",
+      "subtitle": "SEVILLA X REAL BÉTIS: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 13",
+      "time": "14:30",
+      "date": "2026-11-21",
+      "videoId": "qMEOLQesoBA",
+      "thumb": "https://i.ytimg.com/vi/qMEOLQesoBA/maxresdefault.jpg"
     },
     {
       "name": "SportyNet",
@@ -298,44 +418,108 @@
   ],
   "noticia": [
     {
-      "name": "Band Jornalismo",
-      "subtitle": "[AO VIVO] GILBERTO KASSAB - CANAL LIVRE | 01/11/2026",
-      "time": "19:59",
-      "date": "2026-11-01",
-      "videoId": "3Z80Bu4vgRQ",
-      "thumb": "https://i.ytimg.com/vi/3Z80Bu4vgRQ/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: CNN PRIME TIME - Edição de domingo - 01/11/2026",
-      "time": "20:00",
-      "date": "2026-11-01",
-      "videoId": "0BO8Q8Eptqg",
-      "thumb": "https://i.ytimg.com/vi/0BO8Q8Eptqg/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: É NEGÓCIO, COM WILSON BARCELLOS, CEO DA AZIMUT BRASIL - 01/11/2026",
-      "time": "20:45",
-      "date": "2026-11-01",
-      "videoId": "iP5-XqAfvmA",
-      "thumb": "https://i.ytimg.com/vi/iP5-XqAfvmA/maxresdefault.jpg"
+      "name": "CNN Brasil Money",
+      "subtitle": "AO VIVO: MONEY NEWS II - 02/11/2026 | CNN MONEY",
+      "time": "13:00",
+      "date": "2026-11-02",
+      "videoId": "ysWDBojuRGM",
+      "thumb": "https://i.ytimg.com/vi/ysWDBojuRGM/maxresdefault.jpg"
     },
     {
       "name": "SBT News",
-      "subtitle": "SBT NEWS AO VIVO",
-      "time": "21:00",
-      "date": "2026-11-01",
-      "videoId": "R6yf-Dm2cP8",
-      "thumb": "https://i.ytimg.com/vi/R6yf-Dm2cP8/maxresdefault.jpg"
+      "subtitle": "CENTRAL DE NOTÍCIAS | 02/11/2026",
+      "time": "13:30",
+      "date": "2026-11-02",
+      "videoId": "VCXQIFpdvvQ",
+      "thumb": "https://i.ytimg.com/vi/VCXQIFpdvvQ/maxresdefault.jpg"
+    },
+    {
+      "name": "GCMAIS",
+      "subtitle": "Balanço Geral CE | 02/11/26 | Acompanhe as principais notícias do dia!",
+      "time": "13:45",
+      "date": "2026-11-02",
+      "videoId": "t6UqV8lnymg",
+      "thumb": "https://i.ytimg.com/vi/t6UqV8lnymg/maxresdefault.jpg"
+    },
+    {
+      "name": "RedeTV",
+      "subtitle": "​[AO VIVO] REDETV! NOTÍCIAS 2ª EDIÇÃO | 02/11/2026",
+      "time": "14:00",
+      "date": "2026-11-02",
+      "videoId": "tUxAIIpRp_A",
+      "thumb": "https://i.ytimg.com/vi/tUxAIIpRp_A/maxresdefault.jpg"
+    },
+    {
+      "name": "Jovem Pan News",
+      "subtitle": "TEMPO REAL - 02/11/26",
+      "time": "14:00",
+      "date": "2026-11-02",
+      "videoId": "zEmgMQr7lkg",
+      "thumb": "https://i.ytimg.com/vi/zEmgMQr7lkg/maxresdefault.jpg"
+    },
+    {
+      "name": "Revista Oeste",
+      "subtitle": "FAROESTE À BRASILEIRA - 02/11/2026",
+      "time": "14:00",
+      "date": "2026-11-02",
+      "videoId": "atpHC-Nbo58",
+      "thumb": "https://i.ytimg.com/vi/atpHC-Nbo58/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil",
-      "subtitle": "AO VIVO: PARA ONDE VAI O BRASIL APÓS AS ELEIÇÕES? | WW ESPECIAL - 01/11/2026",
-      "time": "22:00",
-      "date": "2026-11-01",
-      "videoId": "6U9tcx9bo9k",
-      "thumb": "https://i.ytimg.com/vi/6U9tcx9bo9k/maxresdefault.jpg"
+      "subtitle": "AO VIVO: CNN 360° - 02/11/2026",
+      "time": "15:00",
+      "date": "2026-11-02",
+      "videoId": "Tu2_flePXLI",
+      "thumb": "https://i.ytimg.com/vi/Tu2_flePXLI/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "AO VIVO: MONEY NEWS III - 02/11/2026 | CNN MONEY",
+      "time": "15:00",
+      "date": "2026-11-02",
+      "videoId": "U3_lD7ZAc1g",
+      "thumb": "https://i.ytimg.com/vi/U3_lD7ZAc1g/maxresdefault.jpg"
+    },
+    {
+      "name": "UOL",
+      "subtitle": "UOL News 2ª Edição ao vivo | 2 de novembro de 2026",
+      "time": "16:00",
+      "date": "2026-11-02",
+      "videoId": "bEBukXlS4PE",
+      "thumb": "https://i.ytimg.com/vi/bEBukXlS4PE/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "PODER EXPRESSO| 02/11/2026",
+      "time": "16:00",
+      "date": "2026-11-02",
+      "videoId": "NxeuQJ0HtiY",
+      "thumb": "https://i.ytimg.com/vi/NxeuQJ0HtiY/maxresdefault.jpg"
+    },
+    {
+      "name": "Jovem Pan News",
+      "subtitle": "3 EM 1 - 02/11/2026",
+      "time": "16:00",
+      "date": "2026-11-02",
+      "videoId": "yhYDMxJCCaQ",
+      "thumb": "https://i.ytimg.com/vi/yhYDMxJCCaQ/maxresdefault.jpg"
+    },
+    {
+      "name": "Revista Oeste",
+      "subtitle": "JORNAL DA OESTE SEGUNDA EDIÇÃO, COM GEISIANE FREITAS | 02/11/2026",
+      "time": "16:00",
+      "date": "2026-11-02",
+      "videoId": "ob4Af8TCKnY",
+      "thumb": "https://i.ytimg.com/vi/ob4Af8TCKnY/maxresdefault.jpg"
+    },
+    {
+      "name": "Jornal da Record",
+      "subtitle": "Boletim JR 24 horas | 2ª edição - 02/11/2026",
+      "time": "16:45",
+      "date": "2026-11-02",
+      "videoId": "PlNl5zSs5eM",
+      "thumb": "https://i.ytimg.com/vi/PlNl5zSs5eM/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil Money",
@@ -370,6 +554,30 @@
       "thumb": "https://i.ytimg.com/vi/3TeqzK12sI8/maxresdefault.jpg"
     },
     {
+      "name": "Jovem Pan News",
+      "subtitle": "OS PINGOS NOS IS - 02/11/2026",
+      "time": "18:00",
+      "date": "2026-11-02",
+      "videoId": "90xBPzdQihM",
+      "thumb": "https://i.ytimg.com/vi/90xBPzdQihM/maxresdefault.jpg"
+    },
+    {
+      "name": "GCMAIS",
+      "subtitle": "Cidade Alerta CE | 02/11/26 | Acompanhe as principais notícias do dia!",
+      "time": "18:00",
+      "date": "2026-11-02",
+      "videoId": "glKzZDJTsPo",
+      "thumb": "https://i.ytimg.com/vi/glKzZDJTsPo/maxresdefault.jpg"
+    },
+    {
+      "name": "Os Pingos nos Is",
+      "subtitle": "OS PINGOS NOS IS - 02/11/26",
+      "time": "18:00",
+      "date": "2026-11-02",
+      "videoId": "6bNGiP0SPFI",
+      "thumb": "https://i.ytimg.com/vi/6bNGiP0SPFI/maxresdefault.jpg"
+    },
+    {
       "name": "SBT News",
       "subtitle": "JORNAL DO SBT NEWS | 02/11/2026",
       "time": "18:30",
@@ -384,6 +592,14 @@
       "date": "2026-11-02",
       "videoId": "_UGhoIO99OM",
       "thumb": "https://i.ytimg.com/vi/_UGhoIO99OM/maxresdefault.jpg"
+    },
+    {
+      "name": "GCMAIS",
+      "subtitle": "Jornal da Cidade | 02/11/26 | Acompanhe as principais notícias do dia!",
+      "time": "19:15",
+      "date": "2026-11-02",
+      "videoId": "StuPJ9COVuo",
+      "thumb": "https://i.ytimg.com/vi/StuPJ9COVuo/maxresdefault.jpg"
     },
     {
       "name": "Band Jornalismo",
@@ -442,12 +658,36 @@
       "thumb": "https://i.ytimg.com/vi/5dzFmvKHmYY/maxresdefault.jpg"
     },
     {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: O GRANDE DEBATE - 02/11/2026",
-      "time": "23:00",
-      "date": "2026-11-02",
-      "videoId": "OnXaerC24SA",
-      "thumb": "https://i.ytimg.com/vi/OnXaerC24SA/maxresdefault.jpg"
+      "name": "SBT News",
+      "subtitle": "CENTRAL DE NOTÍCIAS | 03/11/2026",
+      "time": "13:30",
+      "date": "2026-11-03",
+      "videoId": "JpGAnu7wN34",
+      "thumb": "https://i.ytimg.com/vi/JpGAnu7wN34/maxresdefault.jpg"
+    },
+    {
+      "name": "UOL",
+      "subtitle": "UOL News 2ª Edição com Natália Mota, João Paulo Charleaux, Ricardo Kotscho e Alexandre Borges",
+      "time": "16:00",
+      "date": "2026-11-03",
+      "videoId": "zXXrShZqJMU",
+      "thumb": "https://i.ytimg.com/vi/zXXrShZqJMU/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "PODER EXPRESSO | 03/11/2026",
+      "time": "16:00",
+      "date": "2026-11-03",
+      "videoId": "u175KyuRSu4",
+      "thumb": "https://i.ytimg.com/vi/u175KyuRSu4/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "JORNAL DO SBT NEWS | 03/11/2026",
+      "time": "18:30",
+      "date": "2026-11-03",
+      "videoId": "qeoh7Ud63Ms",
+      "thumb": "https://i.ytimg.com/vi/qeoh7Ud63Ms/maxresdefault.jpg"
     },
     {
       "name": "Band Jornalismo",
@@ -458,6 +698,14 @@
       "thumb": "https://i.ytimg.com/vi/UpNXnxIqeA0/maxresdefault.jpg"
     },
     {
+      "name": "SBT News",
+      "subtitle": "NEWS NOITE | 03/11/2026",
+      "time": "20:30",
+      "date": "2026-11-03",
+      "videoId": "MqIJrziJ2VA",
+      "thumb": "https://i.ytimg.com/vi/MqIJrziJ2VA/maxresdefault.jpg"
+    },
+    {
       "name": "Revista Oeste",
       "subtitle": "CONVERSA COM FERNANDO SCHÜLER - CIENTISTA POLÍTICO E PROFESSOR DO INSPER",
       "time": "20:30",
@@ -466,12 +714,20 @@
       "thumb": "https://i.ytimg.com/vi/LS07uQUvXv0/maxresdefault.jpg"
     },
     {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: AMÉRICA DECIDE ESPECIAL - 03/11/2026",
-      "time": "23:00",
-      "date": "2026-11-03",
-      "videoId": "83d-7fjHE2g",
-      "thumb": "https://i.ytimg.com/vi/83d-7fjHE2g/maxresdefault.jpg"
+      "name": "UOL",
+      "subtitle": "UOL News 2ª Edição com Natália Mota, João Paulo Charleaux e Thaís Bilenky",
+      "time": "16:00",
+      "date": "2026-11-04",
+      "videoId": "pcE40cQAsCw",
+      "thumb": "https://i.ytimg.com/vi/pcE40cQAsCw/maxresdefault.jpg"
+    },
+    {
+      "name": "UOL",
+      "subtitle": "UOL News 2ª Edição com Natália Mota, João Paulo Charleaux, Ricardo Kotscho e Alexandre Borges",
+      "time": "16:00",
+      "date": "2026-11-05",
+      "videoId": "JlHaKp30Xls",
+      "thumb": "https://i.ytimg.com/vi/JlHaKp30Xls/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil Money",
@@ -480,6 +736,14 @@
       "date": "2026-11-05",
       "videoId": "__HpslHheIw",
       "thumb": "https://i.ytimg.com/vi/__HpslHheIw/maxresdefault.jpg"
+    },
+    {
+      "name": "UOL",
+      "subtitle": "UOL News 2ª Edição com Natália Mota, João Paulo Charleaux, Leonardo Sakamoto e Thaís Bilenky",
+      "time": "16:00",
+      "date": "2026-11-06",
+      "videoId": "a6-gyv3YLZ8",
+      "thumb": "https://i.ytimg.com/vi/a6-gyv3YLZ8/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil",
