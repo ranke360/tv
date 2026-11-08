@@ -96,86 +96,6 @@
     ],
   "esporte": [
     {
-      "name": "CNN Esportes",
-      "subtitle": "AO VIVO: Entrevista com Rafinha Alcântara, ex-Barcelona e PSG, e empresário | ESPORTES S/A",
-      "time": "17:10",
-      "date": "2026-11-07",
-      "videoId": "V8_kwXhnl6Y",
-      "thumb": "https://i.ytimg.com/vi/V8_kwXhnl6Y/maxresdefault.jpg"
-    },
-    {
-      "name": "Combate",
-      "subtitle": "AO VIVO! OKTAGON COMBAT 97 | TRÊS PRIMEIRAS LUTAS | Combate.globo",
-      "time": "17:15",
-      "date": "2026-11-07",
-      "videoId": "qMp_pGjgPTQ",
-      "thumb": "https://i.ytimg.com/vi/qMp_pGjgPTQ/maxresdefault.jpg"
-    },
-    {
-      "name": "ESPN Brasil",
-      "subtitle": "SPORTING X MOREIRENSE AO VIVO: JOGO DO CAMPEONATO PORTUGUÊS COM IMAGENS E DE GRAÇA | ESPN",
-      "time": "17:25",
-      "date": "2026-11-07",
-      "videoId": "keFJ3mE6zzI",
-      "thumb": "https://i.ytimg.com/vi/keFJ3mE6zzI/maxresdefault.jpg"
-    },
-    {
-      "name": "Jovem Pan Esportes",
-      "subtitle": "ATLÉTICO-MG X GRÊMIO AO VIVO! | COPA DO BRASIL | 07/11/2026",
-      "time": "17:30",
-      "date": "2026-11-07",
-      "videoId": "eq7AW1mFtAQ",
-      "thumb": "https://i.ytimg.com/vi/eq7AW1mFtAQ/maxresdefault.jpg"
-    },
-    {
-      "name": "TNT Sports Brasil",
-      "subtitle": "AO VIVO: INTER MIAMI X CHARLOTTE FC | MESSI EM CAMPO NA MLS COM IMAGENS",
-      "time": "17:30",
-      "date": "2026-11-07",
-      "videoId": "FoyLpuVKKdc",
-      "thumb": "https://i.ytimg.com/vi/FoyLpuVKKdc/maxresdefault.jpg"
-    },
-    {
-      "name": "UFC Brasil",
-      "subtitle": "Pré-Show | UFC Vegas 124: Cortes Acosta x Walker",
-      "time": "18:00",
-      "date": "2026-11-07",
-      "videoId": "KoZksRaDls4",
-      "thumb": "https://i.ytimg.com/vi/KoZksRaDls4/maxresdefault.jpg"
-    },
-    {
-      "name": "ESPN Brasil",
-      "subtitle": "NOVORIZONTINO X FORTALEZA: PÓS-JOGO |  VILA NOVA X CRICIÚMA AO VIVO - PRÉ-JOGO | B DE BOLA",
-      "time": "18:00",
-      "date": "2026-11-07",
-      "videoId": "omKjYYhht9U",
-      "thumb": "https://i.ytimg.com/vi/omKjYYhht9U/maxresdefault.jpg"
-    },
-    {
-      "name": "LNFTV",
-      "subtitle": "JOGO AO VIVO E COM IMAGENS | LNF SILVER 2026 | SÃO LOURENÇO X VASCO | SEMIFINAL - IDA",
-      "time": "19:00",
-      "date": "2026-11-07",
-      "videoId": "1eUYxKSancY",
-      "thumb": "https://i.ytimg.com/vi/1eUYxKSancY/maxresdefault.jpg"
-    },
-    {
-      "name": "ge tv",
-      "subtitle": "AO VIVO: NÁUTICO X CRB | BRASILEIRÃO SÉRIE B 2026 | ge tv",
-      "time": "21:15",
-      "date": "2026-11-07",
-      "videoId": "D8bCYun3r-s",
-      "thumb": "https://i.ytimg.com/vi/D8bCYun3r-s/maxresdefault.jpg"
-    },
-    {
-      "name": "SportyNet",
-      "subtitle": "TOLUCA X MONTERREY: AO VIVO, COM IMAGENS E EXCLUSIVO| RODADA 16 - APERTURA |CAMPEONATO MEXICANO",
-      "time": "21:45",
-      "date": "2026-11-07",
-      "videoId": "Y9gso7KMbtA",
-      "thumb": "https://i.ytimg.com/vi/Y9gso7KMbtA/maxresdefault.jpg"
-    },
-    {
       "name": "UOL Esporte",
       "subtitle": "ESPANHA X BRASIL: AO VIVO | FINAL DA FINALÍSSIMA FUTSAL 2026 | COM IMAGENS E NARRAÇÃO",
       "time": "17:00",
@@ -190,6 +110,14 @@
       "date": "2026-11-08",
       "videoId": "0QYNVo7UroY",
       "thumb": "https://i.ytimg.com/vi/0QYNVo7UroY/maxresdefault.jpg"
+    },
+    {
+      "name": "Jovem Pan Esportes",
+      "subtitle": "JOVEM PAN FUTEBOL CLUBE - 08/11/26",
+      "time": "18:00",
+      "date": "2026-11-08",
+      "videoId": "wFbpylrhFLA",
+      "thumb": "https://i.ytimg.com/vi/wFbpylrhFLA/maxresdefault.jpg"
     },
     {
       "name": "Combate",
@@ -222,6 +150,14 @@
       "date": "2026-11-08",
       "videoId": "yKgEuSdXqzk",
       "thumb": "https://i.ytimg.com/vi/yKgEuSdXqzk/maxresdefault.jpg"
+    },
+    {
+      "name": "Xsports",
+      "subtitle": "CORINTHIANS X RB BRAGANTINO | SEMIFINAL DO PAULISTÃO SUB-20 | AO VIVO E COM IMAGENS",
+      "time": "21:00",
+      "date": "2026-11-08",
+      "videoId": "MoLXptCPDDE",
+      "thumb": "https://i.ytimg.com/vi/MoLXptCPDDE/maxresdefault.jpg"
     },
     {
       "name": "CNN Esportes",
@@ -278,6 +214,14 @@
       "date": "2026-11-09",
       "videoId": "VEUXpe4G_Jg",
       "thumb": "https://i.ytimg.com/vi/VEUXpe4G_Jg/maxresdefault.jpg"
+    },
+    {
+      "name": "Esporte na Band",
+      "subtitle": "[AO VIVO] APITO FINAL - 09/11/2026",
+      "time": "22:15",
+      "date": "2026-11-09",
+      "videoId": "fo2ZOOcGgp4",
+      "thumb": "https://i.ytimg.com/vi/fo2ZOOcGgp4/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
@@ -410,116 +354,20 @@
   ],
   "noticia": [
     {
-      "name": "Jovem Pan News",
-      "subtitle": "ATLÉTICO-MG X GRÊMIO AO VIVO! | COPA DO BRASIL | 07/11/2026",
-      "time": "17:30",
-      "date": "2026-11-07",
-      "videoId": "GDanMsP4L8M",
-      "thumb": "https://i.ytimg.com/vi/GDanMsP4L8M/maxresdefault.jpg"
-    },
-    {
-      "name": "GCMAIS",
-      "subtitle": "Programação Completa Festival da Paz 2026 | 07/11/2026",
-      "time": "18:00",
-      "date": "2026-11-07",
-      "videoId": "n8DlmHlwemQ",
-      "thumb": "https://i.ytimg.com/vi/n8DlmHlwemQ/maxresdefault.jpg"
-    },
-    {
-      "name": "SBT News",
-      "subtitle": "JORNAL DO SBT NEWS | 07/11/2026",
-      "time": "19:00",
-      "date": "2026-11-07",
-      "videoId": "AJNZwMUrOt4",
-      "thumb": "https://i.ytimg.com/vi/AJNZwMUrOt4/maxresdefault.jpg"
-    },
-    {
-      "name": "Jovem Pan News",
-      "subtitle": "JORNAL JOVEM PAN - 07/11/26",
-      "time": "19:00",
-      "date": "2026-11-07",
-      "videoId": "HpDj78iIiXQ",
-      "thumb": "https://i.ytimg.com/vi/HpDj78iIiXQ/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: CNN SINAIS VITAIS - DR. KALIL ENTREVISTA: OLHOS | 07/11/2026",
-      "time": "19:30",
-      "date": "2026-11-07",
-      "videoId": "u77M5Z1PR5k",
-      "thumb": "https://i.ytimg.com/vi/u77M5Z1PR5k/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: CNN PRIME TIME - Edição de sábado - 07/11/2026",
-      "time": "20:00",
-      "date": "2026-11-07",
-      "videoId": "O2OGWryx31A",
-      "thumb": "https://i.ytimg.com/vi/O2OGWryx31A/maxresdefault.jpg"
-    },
-    {
-      "name": "Revista Oeste",
-      "subtitle": "OUTRA COISA, COM GUILHERME FIUZA - 07/11/2026",
-      "time": "20:00",
-      "date": "2026-11-07",
-      "videoId": "9inTByK_nFw",
-      "thumb": "https://i.ytimg.com/vi/9inTByK_nFw/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: O GRANDE DEBATE - Edição Fim de Semana - 07/11/2026",
-      "time": "21:00",
-      "date": "2026-11-07",
-      "videoId": "s-I0_B3mtkw",
-      "thumb": "https://i.ytimg.com/vi/s-I0_B3mtkw/maxresdefault.jpg"
-    },
-    {
-      "name": "SBT News",
-      "subtitle": "SBT NEWS AO VIVO",
-      "time": "21:00",
-      "date": "2026-11-07",
-      "videoId": "kf7IDgLsQV0",
-      "thumb": "https://i.ytimg.com/vi/kf7IDgLsQV0/maxresdefault.jpg"
-    },
-    {
-      "name": "GCMAIS",
-      "subtitle": "Acesso MMA 15 | Card principal | Ao vivo de Fortaleza",
-      "time": "21:00",
-      "date": "2026-11-07",
-      "videoId": "sTeZ8LBWCrs",
-      "thumb": "https://i.ytimg.com/vi/sTeZ8LBWCrs/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: Danúbio: pelas águas da Europa Central | CNN Viagem & Gastronomia",
-      "time": "22:00",
-      "date": "2026-11-07",
-      "videoId": "lWa2AUG08k8",
-      "thumb": "https://i.ytimg.com/vi/lWa2AUG08k8/maxresdefault.jpg"
-    },
-    {
-      "name": "Revista Oeste",
-      "subtitle": "OESTE CULTURA: GODZILLA, ANIME E CULTURA JAPONESA NO BRASIL - (07/11/26)",
-      "time": "22:30",
-      "date": "2026-11-07",
-      "videoId": "1Mnv83Ok148",
-      "thumb": "https://i.ytimg.com/vi/1Mnv83Ok148/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "Mari Maria fala da pressão estética na era das redes sociais | Na Palma da Mari: Entre Mulheres",
-      "time": "22:45",
-      "date": "2026-11-07",
-      "videoId": "8u4sGV4rzkc",
-      "thumb": "https://i.ytimg.com/vi/8u4sGV4rzkc/maxresdefault.jpg"
-    },
-    {
       "name": "CNN Brasil",
       "subtitle": "AO VIVO: FORA DA ORDEM - 08/11/2026",
       "time": "17:15",
       "date": "2026-11-08",
       "videoId": "cpbI0t-yNX8",
       "thumb": "https://i.ytimg.com/vi/cpbI0t-yNX8/maxresdefault.jpg"
+    },
+    {
+      "name": "Jovem Pan News",
+      "subtitle": "JOVEM PAN FUTEBOL CLUBE - 08/11/26",
+      "time": "18:00",
+      "date": "2026-11-08",
+      "videoId": "l8v4AGuOqxg",
+      "thumb": "https://i.ytimg.com/vi/l8v4AGuOqxg/maxresdefault.jpg"
     },
     {
       "name": "Jovem Pan News",
@@ -546,12 +394,28 @@
       "thumb": "https://i.ytimg.com/vi/svb8-1hYVl0/maxresdefault.jpg"
     },
     {
+      "name": "Band Jornalismo",
+      "subtitle": "AO VIVO: ENEM 2026 | Análise dos temas da prova com professores e especialistas",
+      "time": "18:45",
+      "date": "2026-11-08",
+      "videoId": "-HKnNBrxems",
+      "thumb": "https://i.ytimg.com/vi/-HKnNBrxems/maxresdefault.jpg"
+    },
+    {
       "name": "SBT News",
       "subtitle": "NEWS DOMINGO (2ª EDIÇÃO) | 08/11/2026",
       "time": "19:00",
       "date": "2026-11-08",
       "videoId": "5T8XUf604fE",
       "thumb": "https://i.ytimg.com/vi/5T8XUf604fE/maxresdefault.jpg"
+    },
+    {
+      "name": "Band Jornalismo",
+      "subtitle": "CORREÇÃO ENEM 2026 | LINGUAGENS, CIÊNCIAS HUMANAS E REDAÇÃO",
+      "time": "19:00",
+      "date": "2026-11-08",
+      "videoId": "f-ekvURoHIg",
+      "thumb": "https://i.ytimg.com/vi/f-ekvURoHIg/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil",
@@ -576,6 +440,14 @@
       "date": "2026-11-08",
       "videoId": "U2L20q4kV7g",
       "thumb": "https://i.ytimg.com/vi/U2L20q4kV7g/maxresdefault.jpg"
+    },
+    {
+      "name": "Band Jornalismo",
+      "subtitle": "[AO VIVO] Canal Livre entrevista presidente do PT sobre 4º mandato de Lula | 08/11/2026",
+      "time": "19:59",
+      "date": "2026-11-08",
+      "videoId": "VBe3wWESRvE",
+      "thumb": "https://i.ytimg.com/vi/VBe3wWESRvE/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil",
@@ -640,6 +512,14 @@
       "date": "2026-11-09",
       "videoId": "L2BlL1rjlg8",
       "thumb": "https://i.ytimg.com/vi/L2BlL1rjlg8/maxresdefault.jpg"
+    },
+    {
+      "name": "Band Jornalismo",
+      "subtitle": "[AO VIVO] JORNAL DA BAND - 09/11/2026",
+      "time": "19:19",
+      "date": "2026-11-09",
+      "videoId": "lJICbHgGSow",
+      "thumb": "https://i.ytimg.com/vi/lJICbHgGSow/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil",
