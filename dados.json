@@ -95,95 +95,7 @@
       { "name": "Pablo", "videoId": "ZxVH2tO3TQk", "thumb": "https://yt3.googleusercontent.com/06gTHDe4JMsp9lohcRCR0eHBt8pgj54nsvekWLPNAQ_m7AHqu3OWnVcjOw3urQM4ugbLEv-BAA=s160-c-k-c0x00ffffff-no-rj" }
     ],
   "esporte": [
-    {
-      "name": "Combate",
-      "subtitle": "AO VIVO! MUNDO DA LUTA #402 COM ANTONIO CARA DE SAPATO | Combate.globo",
-      "time": "17:30",
-      "date": "2026-11-10",
-      "videoId": "JuqqVf7ZY1w",
-      "thumb": "https://i.ytimg.com/vi/JuqqVf7ZY1w/maxresdefault.jpg"
-    },
-    {
-      "name": "UOL Esporte",
-      "subtitle": "CARTÃO VERMELHO | 10 DE NOVEMBRO",
-      "time": "18:00",
-      "date": "2026-11-10",
-      "videoId": "96x0yLBBhys",
-      "thumb": "https://i.ytimg.com/vi/96x0yLBBhys/maxresdefault.jpg"
-    },
-    {
-      "name": "ge tv",
-      "subtitle": "AO VIVO: SÃO JOSÉ X MONTES CLAROS | SUPERLIGA MASCULINA DE VÔLEI 2026/27 | ge tv",
-      "time": "18:15",
-      "date": "2026-11-10",
-      "videoId": "2f7PMzpd8u8",
-      "thumb": "https://i.ytimg.com/vi/2f7PMzpd8u8/maxresdefault.jpg"
-    },
-    {
-      "name": "Metrópoles Esportes",
-      "subtitle": "GUARANI DE JUAZEIRO x QUIXADÁ - TAÇA FARES LOPES 2026 - AO VIVO - 10.11.26",
-      "time": "18:45",
-      "date": "2026-11-10",
-      "videoId": "aqntzXiw_p8",
-      "thumb": "https://i.ytimg.com/vi/aqntzXiw_p8/maxresdefault.jpg"
-    },
-    {
-      "name": "ge tv",
-      "subtitle": "AO VIVO! SELEÇÃO TREINA EM SINGAPURA! CARA A CARA DE GRÊMIO X PALMEIRAS | Denilson show | ge tv",
-      "time": "19:00",
-      "date": "2026-11-10",
-      "videoId": "tg6qh96S-H4",
-      "thumb": "https://i.ytimg.com/vi/tg6qh96S-H4/maxresdefault.jpg"
-    },
-    {
-      "name": "Grande Prêmio",
-      "subtitle": "MARC MÁRQUEZ A UM PASSO DO HISTÓRICO OCTA NA MOTOGP: O QUE ESPERAR DE PORTUGAL? | Motoca GP",
-      "time": "19:00",
-      "date": "2026-11-10",
-      "videoId": "9PM4LqqChP8",
-      "thumb": "https://i.ytimg.com/vi/9PM4LqqChP8/maxresdefault.jpg"
-    },
-    {
-      "name": "UOL Esporte",
-      "subtitle": "FIM DE PAPO AO VIVO | 11 DE NOVEMBRO",
-      "time": "18:00",
-      "date": "2026-11-11",
-      "videoId": "KxDcP-LsMv8",
-      "thumb": "https://i.ytimg.com/vi/KxDcP-LsMv8/maxresdefault.jpg"
-    },
-    {
-      "name": "Metrópoles Esportes",
-      "subtitle": "ATLÉTICO CAJAZEIRAS x TREZE - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 11.11.26",
-      "time": "19:45",
-      "date": "2026-11-11",
-      "videoId": "Diml8PBc17k",
-      "thumb": "https://i.ytimg.com/vi/Diml8PBc17k/maxresdefault.jpg"
-    },
-    {
-      "name": "Metrópoles Esportes",
-      "subtitle": "SERRA BRANCA x CAMPINENSE - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 11.11.26",
-      "time": "19:45",
-      "date": "2026-11-11",
-      "videoId": "A3kEUPpSIgE",
-      "thumb": "https://i.ytimg.com/vi/A3kEUPpSIgE/maxresdefault.jpg"
-    },
-    {
-      "name": "Metrópoles Esportes",
-      "subtitle": "ESPORTE x NACIONAL- COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 11.11.26",
-      "time": "19:45",
-      "date": "2026-11-11",
-      "videoId": "7OoY9_Tyrug",
-      "thumb": "https://i.ytimg.com/vi/7OoY9_Tyrug/maxresdefault.jpg"
-    },
-    {
-      "name": "ge tv",
-      "subtitle": "AO VIVO: FLAMENGO X INTERNACIONAL | FINAL | COPA DO BRASIL FEMININA 2026 | ge tv",
-      "time": "20:30",
-      "date": "2026-11-11",
-      "videoId": "L2xQZYgH91U",
-      "thumb": "https://i.ytimg.com/vi/L2xQZYgH91U/maxresdefault.jpg"
-    },
-    {
+{
       "name": "UOL Esporte",
       "subtitle": "FIM DE PAPO AO VIVO | 12 DE NOVEMBRO",
       "time": "18:00",
@@ -200,12 +112,12 @@
       "thumb": "https://i.ytimg.com/vi/1SacMDj6QUc/maxresdefault.jpg"
     },
     {
-      "name": "Metrópoles Esportes",
-      "subtitle": "CEARÁ x ATLÉTICO CEARENSE - TAÇA FARES LOPES 2026 - AO VIVO - 12.11.26",
-      "time": "18:45",
+      "name": "Canal Zico 10",
+      "subtitle": "AO VIVO E COM IMAGENS! | DIA 4 / SEMIFINAIS - LIGA SHOWBOL 2026",
+      "time": "19:00",
       "date": "2026-11-12",
-      "videoId": "niLYcIQXpdo",
-      "thumb": "https://i.ytimg.com/vi/niLYcIQXpdo/maxresdefault.jpg"
+      "videoId": "MXNwbH0lNQg",
+      "thumb": "https://i.ytimg.com/vi/MXNwbH0lNQg/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
@@ -214,6 +126,14 @@
       "date": "2026-11-12",
       "videoId": "MHuhtQWm4nQ",
       "thumb": "https://i.ytimg.com/vi/MHuhtQWm4nQ/maxresdefault.jpg"
+    },
+    {
+      "name": "Xsports",
+      "subtitle": "BOTAFOGO X FRANCA | NOVO BASQUETE BRASIL | AO VIVO E COM IMAGENS",
+      "time": "19:50",
+      "date": "2026-11-12",
+      "videoId": "COQLytPF-38",
+      "thumb": "https://i.ytimg.com/vi/COQLytPF-38/maxresdefault.jpg"
     },
     {
       "name": "UFC Brasil",
@@ -226,7 +146,7 @@
     {
       "name": "Canal GOAT",
       "subtitle": "CURAÇAO X PANAMÁ | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
-      "time": "20:30",
+      "time": "21:20",
       "date": "2026-11-12",
       "videoId": "5qqyIhHmKJc",
       "thumb": "https://i.ytimg.com/vi/5qqyIhHmKJc/maxresdefault.jpg"
@@ -272,6 +192,14 @@
       "thumb": "https://i.ytimg.com/vi/nIMeVD1KngI/maxresdefault.jpg"
     },
     {
+      "name": "Xsports",
+      "subtitle": "SÃO JOSÉ X PAULISTANO | NOVO BASQUETE BRASIL | AO VIVO E COM IMAGENS",
+      "time": "18:50",
+      "date": "2026-11-13",
+      "videoId": "c43A1g-lsYo",
+      "thumb": "https://i.ytimg.com/vi/c43A1g-lsYo/maxresdefault.jpg"
+    },
+    {
       "name": "UFC Brasil",
       "subtitle": "Cerimônia de Pesagem | UFC 334: Gane x Hokit",
       "time": "19:00",
@@ -288,9 +216,17 @@
       "thumb": "https://i.ytimg.com/vi/9SURja93R1E/maxresdefault.jpg"
     },
     {
+      "name": "Esporte na Band",
+      "subtitle": "[AO VIVO] FÓRMULA BAND BASTIDORES | 13/11/2026",
+      "time": "20:00",
+      "date": "2026-11-13",
+      "videoId": "yL5ispzyTxE",
+      "thumb": "https://i.ytimg.com/vi/yL5ispzyTxE/maxresdefault.jpg"
+    },
+    {
       "name": "Canal GOAT",
       "subtitle": "GUATEMALA X CANADÁ | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
-      "time": "22:30",
+      "time": "22:50",
       "date": "2026-11-13",
       "videoId": "qFwLLP72oQI",
       "thumb": "https://i.ytimg.com/vi/qFwLLP72oQI/maxresdefault.jpg"
@@ -304,9 +240,17 @@
       "thumb": "https://i.ytimg.com/vi/-IYaMBT1x0A/maxresdefault.jpg"
     },
     {
+      "name": "UFC Brasil",
+      "subtitle": "Pré-Show | UFC 334: Gane x Hokit",
+      "time": "18:00",
+      "date": "2026-11-14",
+      "videoId": "DFZ5AWrM5ZY",
+      "thumb": "https://i.ytimg.com/vi/DFZ5AWrM5ZY/maxresdefault.jpg"
+    },
+    {
       "name": "Canal GOAT",
       "subtitle": "HAITI X ESTADOS UNIDOS | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
-      "time": "18:00",
+      "time": "18:20",
       "date": "2026-11-14",
       "videoId": "JbZfS_5Sio8",
       "thumb": "https://i.ytimg.com/vi/JbZfS_5Sio8/maxresdefault.jpg"
@@ -320,12 +264,68 @@
       "thumb": "https://i.ytimg.com/vi/5K8lfF53DqM/maxresdefault.jpg"
     },
     {
+      "name": "Canal GOAT",
+      "subtitle": "JAMAICA X MÉXICO | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
+      "time": "21:50",
+      "date": "2026-11-14",
+      "videoId": "bwwMxAg-K1Q",
+      "thumb": "https://i.ytimg.com/vi/bwwMxAg-K1Q/maxresdefault.jpg"
+    },
+    {
       "name": "ge tv",
       "subtitle": "PITTSBURGH STEELERS X CINCINNATI BENGALS  | AQUECIMENTO AO VIVO | NFL | #live | sportv",
       "time": "18:10",
       "date": "2026-11-15",
       "videoId": "ZP1Kyp7hHEw",
       "thumb": "https://i.ytimg.com/vi/ZP1Kyp7hHEw/maxresdefault.jpg"
+    },
+    {
+      "name": "Canal GOAT",
+      "subtitle": "PANAMÁ X CURAÇAO | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
+      "time": "19:40",
+      "date": "2026-11-15",
+      "videoId": "gDRqfPYf1LA",
+      "thumb": "https://i.ytimg.com/vi/gDRqfPYf1LA/maxresdefault.jpg"
+    },
+    {
+      "name": "ESPN Brasil",
+      "subtitle": "CORINTHIANS AO VIVO: ASSISTA AO DEBATE DOS CANDIDATOS À PRESIDÊNCIA DO TIMÃO | ESPN",
+      "time": "20:00",
+      "date": "2026-11-16",
+      "videoId": "ikNaJ0dHRrM",
+      "thumb": "https://i.ytimg.com/vi/ikNaJ0dHRrM/maxresdefault.jpg"
+    },
+    {
+      "name": "ge tv",
+      "subtitle": "AO VIVO! PREPARAÇÃO DA SELEÇÃO BRASILEIRA PARA BRASIL X SINGAPURA | Panela Sportv",
+      "time": "20:15",
+      "date": "2026-11-16",
+      "videoId": "gng_aJwf5hQ",
+      "thumb": "https://i.ytimg.com/vi/gng_aJwf5hQ/maxresdefault.jpg"
+    },
+    {
+      "name": "ge tv",
+      "subtitle": "AO VIVO! BRASIL X SINGAPURA: TUDO SOBRE O AMISTOSO DA SELEÇÃO! | Denilson show | ge tv",
+      "time": "19:00",
+      "date": "2026-11-17",
+      "videoId": "FjXzPtcFUl4",
+      "thumb": "https://i.ytimg.com/vi/FjXzPtcFUl4/maxresdefault.jpg"
+    },
+    {
+      "name": "Canal GOAT",
+      "subtitle": "ESTADOS UNIDOS X HAITI | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
+      "time": "20:40",
+      "date": "2026-11-17",
+      "videoId": "KLFxHpfufgo",
+      "thumb": "https://i.ytimg.com/vi/KLFxHpfufgo/maxresdefault.jpg"
+    },
+    {
+      "name": "ge tv",
+      "subtitle": "AO VIVO: CRUZEIRO X PALMEIRAS | PRÉ-JOGO | BRASILEIRÃO 2026 | Premiere",
+      "time": "19:30",
+      "date": "2026-11-18",
+      "videoId": "Xp2Skvaa6Vo",
+      "thumb": "https://i.ytimg.com/vi/Xp2Skvaa6Vo/maxresdefault.jpg"
     },
     {
       "name": "ge tv",
@@ -379,211 +379,259 @@
   "noticia": [
     {
       "name": "CNN Brasil Money",
-      "subtitle": "AO VIVO: FECHAMENTO DE MERCADO - 10/11/2026 | CNN MONEY",
+      "subtitle": "AO VIVO: FECHAMENTO DE MERCADO - 12/11/2026 | CNN MONEY",
       "time": "17:00",
-      "date": "2026-11-10",
-      "videoId": "I1LiGsFpWo0",
-      "thumb": "https://i.ytimg.com/vi/I1LiGsFpWo0/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "0M8Irjrlxys",
+      "thumb": "https://i.ytimg.com/vi/0M8Irjrlxys/maxresdefault.jpg"
     },
     {
       "name": "Revista Oeste",
-      "subtitle": "OESTE SEM FILTRO | 10/11/2026",
+      "subtitle": "OESTE SEM FILTRO | 12/11/2026",
       "time": "17:45",
-      "date": "2026-11-10",
-      "videoId": "WORqud7Pifg",
-      "thumb": "https://i.ytimg.com/vi/WORqud7Pifg/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "jRjYduEUGWs",
+      "thumb": "https://i.ytimg.com/vi/jRjYduEUGWs/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil",
-      "subtitle": "AO VIVO: HORA H - 10/11/2026",
+      "subtitle": "AO VIVO: HORA H - 12/11/2026",
       "time": "17:55",
-      "date": "2026-11-10",
-      "videoId": "jwqE3Cp7cBI",
-      "thumb": "https://i.ytimg.com/vi/jwqE3Cp7cBI/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "RGqEM_y8yS0",
+      "thumb": "https://i.ytimg.com/vi/RGqEM_y8yS0/maxresdefault.jpg"
     },
     {
       "name": "Jovem Pan News",
-      "subtitle": "OS PINGOS NOS IS - 10/11/26",
+      "subtitle": "OS PINGOS NOS IS - 12/11/26",
       "time": "18:00",
-      "date": "2026-11-10",
-      "videoId": "J0ZYq02UZDQ",
-      "thumb": "https://i.ytimg.com/vi/J0ZYq02UZDQ/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "x_QckEkpvDE",
+      "thumb": "https://i.ytimg.com/vi/x_QckEkpvDE/maxresdefault.jpg"
     },
     {
       "name": "GCMAIS",
-      "subtitle": "Cidade Alerta CE | 10/11/26 | Acompanhe as principais notícias do dia!",
+      "subtitle": "Cidade Alerta CE | 12/11/26 | Acompanhe as principais notícias do dia!",
       "time": "18:00",
-      "date": "2026-11-10",
-      "videoId": "aRBhI9Ecyj4",
-      "thumb": "https://i.ytimg.com/vi/aRBhI9Ecyj4/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "qAvXmutnqfo",
+      "thumb": "https://i.ytimg.com/vi/qAvXmutnqfo/maxresdefault.jpg"
     },
     {
       "name": "SBT News",
-      "subtitle": "JORNAL DO SBT NEWS | 10/11/2026",
+      "subtitle": "JORNAL DO SBT NEWS | 12/11/2026",
       "time": "18:30",
-      "date": "2026-11-10",
-      "videoId": "Z5UdKNQM-pk",
-      "thumb": "https://i.ytimg.com/vi/Z5UdKNQM-pk/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "zJk_Qtdz1Lo",
+      "thumb": "https://i.ytimg.com/vi/zJk_Qtdz1Lo/maxresdefault.jpg"
     },
     {
       "name": "Record News",
-      "subtitle": "Esporte Record News - 10/11/2026",
+      "subtitle": "Esporte Record News - 12/11/2026",
       "time": "18:40",
-      "date": "2026-11-10",
-      "videoId": "Qh2iZMmCJ-A",
-      "thumb": "https://i.ytimg.com/vi/Qh2iZMmCJ-A/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "fCqhKZi9TJw",
+      "thumb": "https://i.ytimg.com/vi/fCqhKZi9TJw/maxresdefault.jpg"
     },
     {
       "name": "Record News",
-      "subtitle": "News 19 Horas - 10/11/2026",
+      "subtitle": "News 19 Horas - 12/11/2026",
       "time": "18:55",
-      "date": "2026-11-10",
-      "videoId": "rqxWQwmdTsY",
-      "thumb": "https://i.ytimg.com/vi/rqxWQwmdTsY/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "hWDw8JE-ocI",
+      "thumb": "https://i.ytimg.com/vi/hWDw8JE-ocI/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil Money",
-      "subtitle": "CRIPTO NA REAL - 10/11/2026 | CNN MONEY",
+      "subtitle": "CAPITAL INSIGHTS ENTREVISTA MARCIO VERRI, CEO DA KINEA - 12/11/2026 | CNN MONEY",
       "time": "19:00",
-      "date": "2026-11-10",
-      "videoId": "fAoa6xSLLE8",
-      "thumb": "https://i.ytimg.com/vi/fAoa6xSLLE8/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "3Vbpi7CUEC4",
+      "thumb": "https://i.ytimg.com/vi/3Vbpi7CUEC4/maxresdefault.jpg"
     },
     {
       "name": "GCMAIS",
-      "subtitle": "Jornal da Cidade | 10/11/26 | Acompanhe as principais notícias do dia!",
+      "subtitle": "Jornal da Cidade | 12/11/26 | Acompanhe as principais notícias do dia!",
       "time": "19:15",
-      "date": "2026-11-10",
-      "videoId": "nJ1HKvNVfBs",
-      "thumb": "https://i.ytimg.com/vi/nJ1HKvNVfBs/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "erSjZxglnKM",
+      "thumb": "https://i.ytimg.com/vi/erSjZxglnKM/maxresdefault.jpg"
+    },
+    {
+      "name": "Band Jornalismo",
+      "subtitle": "[AO VIVO] JORNAL DA BAND - 12/11/2026",
+      "time": "19:19",
+      "date": "2026-11-12",
+      "videoId": "thk4CevV2yE",
+      "thumb": "https://i.ytimg.com/vi/thk4CevV2yE/maxresdefault.jpg"
     },
     {
       "name": "Record News",
-      "subtitle": "Elas com a Bola - 10/11/2026",
+      "subtitle": "Elas com a Bola - 12/11/2026",
       "time": "19:40",
-      "date": "2026-11-10",
-      "videoId": "MDIyDc5uFk4",
-      "thumb": "https://i.ytimg.com/vi/MDIyDc5uFk4/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "z5nWeK7l5sU",
+      "thumb": "https://i.ytimg.com/vi/z5nWeK7l5sU/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "CONEXÃO INFRA - 12/11/26 | CNN MONEY",
+      "time": "19:45",
+      "date": "2026-11-12",
+      "videoId": "9CLX0cY_5CY",
+      "thumb": "https://i.ytimg.com/vi/9CLX0cY_5CY/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil",
-      "subtitle": "AO VIVO: CNN PRIME TIME - 10/11/2026",
+      "subtitle": "AO VIVO: CNN PRIME TIME - 12/11/2026",
       "time": "20:00",
-      "date": "2026-11-10",
-      "videoId": "h2yZ6qG9QY0",
-      "thumb": "https://i.ytimg.com/vi/h2yZ6qG9QY0/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "lZZWjBkmE3E",
+      "thumb": "https://i.ytimg.com/vi/lZZWjBkmE3E/maxresdefault.jpg"
+    },
+    {
+      "name": "Band Jornalismo",
+      "subtitle": "PRÊMIO BAND CIDADES EXCELENTES 2026 - ETAPA ESTADUAL | SÃO PAULO",
+      "time": "20:00",
+      "date": "2026-11-12",
+      "videoId": "YdGSyHO4XSQ",
+      "thumb": "https://i.ytimg.com/vi/YdGSyHO4XSQ/maxresdefault.jpg"
     },
     {
       "name": "Jovem Pan News",
-      "subtitle": "JORNAL JOVEM PAN - 10/11/26",
-      "time": "20:00",
-      "date": "2026-11-10",
-      "videoId": "vTMibfOgoJU",
-      "thumb": "https://i.ytimg.com/vi/vTMibfOgoJU/maxresdefault.jpg"
+      "subtitle": "JORNAL JOVEM PAN - 12/11/26",
+      "time": "20:15",
+      "date": "2026-11-12",
+      "videoId": "hjmvsKDm2Q8",
+      "thumb": "https://i.ytimg.com/vi/hjmvsKDm2Q8/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil Money",
-      "subtitle": "ALTA VOLTAGEM ENTREVISTA DANIEL DRUMOND, VP DE OPERAÇÕES DA VIBRA - 10/11/2026 | CNN MONEY",
-      "time": "20:00",
-      "date": "2026-11-10",
-      "videoId": "jy-RTPwU5Uk",
-      "thumb": "https://i.ytimg.com/vi/jy-RTPwU5Uk/maxresdefault.jpg"
+      "subtitle": "CNN SÉRIES ORIGINAIS: CIRCUIT BREAKER 1/5 - 12/11/2026 | CNN MONEY",
+      "time": "20:15",
+      "date": "2026-11-12",
+      "videoId": "4dm4-cHDVTE",
+      "thumb": "https://i.ytimg.com/vi/4dm4-cHDVTE/maxresdefault.jpg"
     },
     {
-      "name": "CNN Brasil Money",
-      "subtitle": "AO VIVO: CONSTRUINDO O FUTURO DA EDUCAÇÃO | CNN TALKS",
+      "name": "SBT News",
+      "subtitle": "NEWS NOITE | 12/11/2026",
       "time": "20:30",
-      "date": "2026-11-10",
-      "videoId": "VR2nMyph2lQ",
-      "thumb": "https://i.ytimg.com/vi/VR2nMyph2lQ/maxresdefault.jpg"
-    },
-    {
-      "name": "Record News",
-      "subtitle": "Jornal da Record News - 10/11/2026",
-      "time": "20:55",
-      "date": "2026-11-10",
-      "videoId": "ciPnNDfNkeo",
-      "thumb": "https://i.ytimg.com/vi/ciPnNDfNkeo/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil",
-      "subtitle": "AO VIVO: WW - 10/11/2026",
-      "time": "22:00",
-      "date": "2026-11-10",
-      "videoId": "b1jFC8yUgqs",
-      "thumb": "https://i.ytimg.com/vi/b1jFC8yUgqs/maxresdefault.jpg"
-    },
-    {
-      "name": "Record News",
-      "subtitle": "News das 10 - 10/11/2026",
-      "time": "22:05",
-      "date": "2026-11-10",
-      "videoId": "R0Zev_R5Kcc",
-      "thumb": "https://i.ytimg.com/vi/R0Zev_R5Kcc/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil Money",
-      "subtitle": "AO VIVO: CNN MONEY - 10/11/2026",
-      "time": "22:45",
-      "date": "2026-11-10",
-      "videoId": "4AosYHAqhXk",
-      "thumb": "https://i.ytimg.com/vi/4AosYHAqhXk/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil Money",
-      "subtitle": "AO VIVO: FECHAMENTO DE MERCADO - 11/11/2026 | CNN MONEY",
-      "time": "17:00",
-      "date": "2026-11-11",
-      "videoId": "s2b76JXTGdc",
-      "thumb": "https://i.ytimg.com/vi/s2b76JXTGdc/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "Jm3YuuNuQ74",
+      "thumb": "https://i.ytimg.com/vi/Jm3YuuNuQ74/maxresdefault.jpg"
     },
     {
       "name": "Revista Oeste",
-      "subtitle": "OESTE SEM FILTRO | 11/11/2026",
-      "time": "17:45",
-      "date": "2026-11-11",
-      "videoId": "TUKAHgt4ufM",
-      "thumb": "https://i.ytimg.com/vi/TUKAHgt4ufM/maxresdefault.jpg"
-    },
-    {
-      "name": "SBT News",
-      "subtitle": "JORNAL DO SBT NEWS |  11/11/2026",
-      "time": "18:30",
-      "date": "2026-11-11",
-      "videoId": "iAc7NTlPirQ",
-      "thumb": "https://i.ytimg.com/vi/iAc7NTlPirQ/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil Money",
-      "subtitle": "CALL DE NEGÓCIOS - 11/11/2026 | CNN MONEY",
-      "time": "19:15",
-      "date": "2026-11-11",
-      "videoId": "KXz0Cg220f0",
-      "thumb": "https://i.ytimg.com/vi/KXz0Cg220f0/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil Money",
-      "subtitle": "MAPA DA MINA ENTREVISTA EDUARDO DE COME, VP EXECUTIVO DA ERO COPPER NO BRASIL- 11/11/26 | CNN MONEY",
-      "time": "19:45",
-      "date": "2026-11-11",
-      "videoId": "RTNMpvD1Br0",
-      "thumb": "https://i.ytimg.com/vi/RTNMpvD1Br0/maxresdefault.jpg"
-    },
-    {
-      "name": "CNN Brasil Money",
-      "subtitle": "AO VIVO: CNN MONEY - 11/11/2026",
-      "time": "20:15",
-      "date": "2026-11-11",
-      "videoId": "rsIsgKW3FuE",
-      "thumb": "https://i.ytimg.com/vi/rsIsgKW3FuE/maxresdefault.jpg"
-    },
-    {
-      "name": "SBT News",
-      "subtitle": "NEWS NOITE | 11/11/2026",
+      "subtitle": "ARENA OESTE #75 | JEFFREY CHIQUINI, ADVOGADO E DEPUTADO FEDERAL ELEITO",
       "time": "20:30",
-      "date": "2026-11-11",
-      "videoId": "1U8ceCaKfI8",
-      "thumb": "https://i.ytimg.com/vi/1U8ceCaKfI8/maxresdefault.jpg"
+      "date": "2026-11-12",
+      "videoId": "YvM7M1JfEaE",
+      "thumb": "https://i.ytimg.com/vi/YvM7M1JfEaE/maxresdefault.jpg"
+    },
+    {
+      "name": "Record News",
+      "subtitle": "Jornal da Record News - 12/11/2026",
+      "time": "20:55",
+      "date": "2026-11-12",
+      "videoId": "WXLrLrVYtsA",
+      "thumb": "https://i.ytimg.com/vi/WXLrLrVYtsA/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "AO VIVO: CNN MONEY - 12/11/2026",
+      "time": "21:00",
+      "date": "2026-11-12",
+      "videoId": "oRht6dAbKVc",
+      "thumb": "https://i.ytimg.com/vi/oRht6dAbKVc/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil",
+      "subtitle": "AO VIVO: WW - 12/11/2026",
+      "time": "22:00",
+      "date": "2026-11-12",
+      "videoId": "bxzCtss_IHE",
+      "thumb": "https://i.ytimg.com/vi/bxzCtss_IHE/maxresdefault.jpg"
+    },
+    {
+      "name": "Record News",
+      "subtitle": "News das 10 - 12/11/2026",
+      "time": "22:05",
+      "date": "2026-11-12",
+      "videoId": "Xpi5MulnAoM",
+      "thumb": "https://i.ytimg.com/vi/Xpi5MulnAoM/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "AO VIVO: FECHAMENTO DE MERCADO - 13/11/2026 | CNN MONEY",
+      "time": "17:00",
+      "date": "2026-11-13",
+      "videoId": "mlSLiZI3G0o",
+      "thumb": "https://i.ytimg.com/vi/mlSLiZI3G0o/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "JORNAL DO SBT NEWS |  13/11/2026",
+      "time": "18:30",
+      "date": "2026-11-13",
+      "videoId": "NiICLuY45Mg",
+      "thumb": "https://i.ytimg.com/vi/NiICLuY45Mg/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "RESENHA DO DINHEIRO - 13/11/2026 | CNN MONEY",
+      "time": "19:00",
+      "date": "2026-11-13",
+      "videoId": "Up2AXWMVMJ0",
+      "thumb": "https://i.ytimg.com/vi/Up2AXWMVMJ0/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "NÚMEROS FALAM - 13/11/2026 | CNN MONEY",
+      "time": "19:45",
+      "date": "2026-11-13",
+      "videoId": "fXJ7T5K_qkc",
+      "thumb": "https://i.ytimg.com/vi/fXJ7T5K_qkc/maxresdefault.jpg"
+    },
+    {
+      "name": "CNN Brasil Money",
+      "subtitle": "AO VIVO: CNN MONEY - 13/11/2026",
+      "time": "20:15",
+      "date": "2026-11-13",
+      "videoId": "uiItRbMJFy4",
+      "thumb": "https://i.ytimg.com/vi/uiItRbMJFy4/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "NEWS NOITE | 13/11/2026",
+      "time": "20:30",
+      "date": "2026-11-13",
+      "videoId": "VEgyrhLP8AI",
+      "thumb": "https://i.ytimg.com/vi/VEgyrhLP8AI/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "JORNAL DO SBT NEWS | 14/11/2026",
+      "time": "19:00",
+      "date": "2026-11-14",
+      "videoId": "3s85IidVtpM",
+      "thumb": "https://i.ytimg.com/vi/3s85IidVtpM/maxresdefault.jpg"
+    },
+    {
+      "name": "Revista Oeste",
+      "subtitle": "OUTRA COISA, com GUILHERME FIUZA - 14/11/2026",
+      "time": "20:00",
+      "date": "2026-11-14",
+      "videoId": "e1jTdPTvu1E",
+      "thumb": "https://i.ytimg.com/vi/e1jTdPTvu1E/maxresdefault.jpg"
+    },
+    {
+      "name": "SBT News",
+      "subtitle": "SBT NEWS AO VIVO",
+      "time": "21:00",
+      "date": "2026-11-14",
+      "videoId": "cUurr-IT5K0",
+      "thumb": "https://i.ytimg.com/vi/cUurr-IT5K0/maxresdefault.jpg"
     },
     {
       "name": "Band Jornalismo",
@@ -592,6 +640,14 @@
       "date": "2026-11-15",
       "videoId": "Kd2Pw8cv23E",
       "thumb": "https://i.ytimg.com/vi/Kd2Pw8cv23E/maxresdefault.jpg"
+    },
+    {
+      "name": "Band Jornalismo",
+      "subtitle": "[AO VIVO] ENEM 2026 | Análise das questões de Matemática e Ciências da Natureza",
+      "time": "18:45",
+      "date": "2026-11-15",
+      "videoId": "ywzZhk-Q0C4",
+      "thumb": "https://i.ytimg.com/vi/ywzZhk-Q0C4/maxresdefault.jpg"
     },
     {
       "name": "CNN Brasil",
